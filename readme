@@ -1,0 +1,16 @@
+1) Download the dataset from the given URL
+Dataset Used: https://www.kaggle.com/austinreese/craigslist-carstrucks-data
+
+2)	Step 1: Data Prerpocessing on data-preprocessing.ipynb
+	Step 2: Model Implementations on ml-models.ipynb
+	Step 3: Data Visualization on data-visualization.ipynb
+
+3)vehiclesFinalData.zip is the dataset after data-preprocesing
+
+4)images.zip contain images of visualizations
+
+Important URLS:
+https://github.com/abhashpanwar/used-car-price-prediction
+https://www.kaggle.com/austinreese/craigslist-carstrucks-data
+
+
