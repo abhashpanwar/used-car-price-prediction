@@ -1,4 +1,9 @@
 # Used Car Price Prediction using Machine Learning
 ![image](https://miro.medium.com/max/647/1*ZOcUPrSXLYucFxppoI-dYg.png)
 
-> You can reach all Python scripts relative to this on my github page. If you are interested, you can also find the scripts used for data cleaning and data visualization for this study in the same repository. And the project is also deployed using django on heroku.View Deployment
+> ## Content
+1)Data Cleaning (Identifying null values, filling missing values and removing outliers)
+2)Data Preprocessing (Standardization or Normalization)
+3)ML Models: Linear Regression, Ridge Regression, Lasso, KNN, Random Forest Regressor, Bagging Regressor, Adaboost Regressor, and XGBoost
+4)Comparison of the performance of the models
+5)Some insights from data
