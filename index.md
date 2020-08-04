@@ -375,72 +375,16 @@
             </div>
         </div>
     </figure>
-    <p id="be5b" class="jx jy bx ka b hs kb kc hv kd ke kf kg ia kh ki id kj kk ig kl gs ap oi" data-selectable-paragraph=""><span class="r na oj ok ol om on oo op oq dc">5</span>From figure 3, we analyze that car prices are increasing per year after 1995, and from figure 4, the number of cars also increasing per year, and at some point i.e in 2012yr, the number of cars
-        is nearly the same.</p>
-    <figure class="je jf jg jh ji jj ge gf paragraph-image">
-        <div class="mm mn dc mo ai">
-            <div class="ge gf oe">
-                <div class="jn r dc fs">
-                    <div class="mp jp r">
-                        <div class="db jk s t u eg ai av jl jm"></div><noscript><img alt="Image for post" class="s t u eg ai" src="https://miro.medium.com/max/24000/1*JBIWEiWC0nr4gr8P4vHGGA.jpeg" width="12000" height="6000" srcSet="https://miro.medium.com/max/552/1*JBIWEiWC0nr4gr8P4vHGGA.jpeg 276w, https://miro.medium.com/max/1104/1*JBIWEiWC0nr4gr8P4vHGGA.jpeg 552w, https://miro.medium.com/max/1280/1*JBIWEiWC0nr4gr8P4vHGGA.jpeg 640w, https://miro.medium.com/max/1400/1*JBIWEiWC0nr4gr8P4vHGGA.jpeg 700w" sizes="700px"/></noscript></div>
-                </div>
-            </div>
-        </div>
-    </figure>
-    <p id="1ae9" class="jx jy bx ka b hs kb kc hv kd ke kf kg ia kh ki id kj kk ig kl gs ap oi" data-selectable-paragraph=""><span class="r na oj ok ol om on oo op oq dc">6</span>From figure 5, we can analyze that the price of the cars also depends upon the condition of the car, and from figure 6, price varies with the condition of the cars with there size also.</p>
-    <figure class="je jf jg jh ji jj ge gf paragraph-image">
-        <div class="mm mn dc mo ai">
-            <div class="ge gf os">
-                <div class="jn r dc fs">
-                    <div class="ot jp r">
-                        <div class="db jk s t u eg ai av jl jm"></div><noscript><img alt="Image for post" class="s t u eg ai" src="https://miro.medium.com/max/14400/1*MJrzsqYvonlwCKQfyICkKg.jpeg" width="7200" height="2400" srcSet="https://miro.medium.com/max/552/1*MJrzsqYvonlwCKQfyICkKg.jpeg 276w, https://miro.medium.com/max/1104/1*MJrzsqYvonlwCKQfyICkKg.jpeg 552w, https://miro.medium.com/max/1280/1*MJrzsqYvonlwCKQfyICkKg.jpeg 640w, https://miro.medium.com/max/1400/1*MJrzsqYvonlwCKQfyICkKg.jpeg 700w" sizes="700px"/></noscript></div>
-                </div>
-            </div>
-        </div>
-    </figure>
-    <p id="3951" class="jx jy bx ka b hs kb kc hv kd ke kf kg ia kh ki id kj kk ig kl gs ap oi" data-selectable-paragraph=""><span class="r na oj ok ol om on oo op oq dc">7</span>From figure 7-8, we analyze that price of the cars also various each <strong class="ka mi">transmission</strong> of a car. People are ready to buy the car having “other transmission” and the price
-        of the cars having “manual transmission” is low.</p>
-    <figure class="je jf jg jh ji jj ge gf paragraph-image">
-        <div class="mm mn dc mo ai">
-            <div class="ge gf os">
-                <div class="jn r dc fs">
-                    <div class="ot jp r">
-                        <div class="db jk s t u eg ai av jl jm"></div><noscript><img alt="Image for post" class="s t u eg ai" src="https://miro.medium.com/max/14400/1*C_9omSXvuIkgC8EBGN-A9Q.jpeg" width="7200" height="2400" srcSet="https://miro.medium.com/max/552/1*C_9omSXvuIkgC8EBGN-A9Q.jpeg 276w, https://miro.medium.com/max/1104/1*C_9omSXvuIkgC8EBGN-A9Q.jpeg 552w, https://miro.medium.com/max/1280/1*C_9omSXvuIkgC8EBGN-A9Q.jpeg 640w, https://miro.medium.com/max/1400/1*C_9omSXvuIkgC8EBGN-A9Q.jpeg 700w" sizes="700px"/></noscript></div>
-                </div>
-            </div>
-        </div>
-    </figure>
-    <p id="e3a8" class="jx jy bx ka b hs kb kc hv kd ke kf kg ia kh ki id kj kk ig kl gs ap oi" data-selectable-paragraph=""><span class="r na oj ok ol om on oo op oq dc">8</span> Below there are similar graphs with same insight but different features.</p>
-    <figure class="je jf jg jh ji jj ge gf paragraph-image">
-        <div class="mm mn dc mo ai">
-            <div class="ge gf ou">
-                <div class="jn r dc fs">
-                    <div class="ov jp r">
-                        <div class="db jk s t u eg ai av jl jm"></div><noscript><img alt="Image for post" class="s t u eg ai" src="https://miro.medium.com/max/18000/1*xpF9jB6QVtjN7625o7mSAw.jpeg" width="9000" height="4800" srcSet="https://miro.medium.com/max/552/1*xpF9jB6QVtjN7625o7mSAw.jpeg 276w, https://miro.medium.com/max/1104/1*xpF9jB6QVtjN7625o7mSAw.jpeg 552w, https://miro.medium.com/max/1280/1*xpF9jB6QVtjN7625o7mSAw.jpeg 640w, https://miro.medium.com/max/1400/1*xpF9jB6QVtjN7625o7mSAw.jpeg 700w" sizes="700px"/></noscript></div>
-                </div>
-            </div>
-        </div>
-    </figure>
-    <figure class="je jf jg jh ji jj ge gf paragraph-image">
-        <div class="mm mn dc mo ai">
-            <div class="ge gf os">
-                <div class="jn r dc fs">
-                    <div class="ot jp r">
-                        <div class="db jk s t u eg ai av jl jm"></div><noscript><img alt="Image for post" class="s t u eg ai" src="https://miro.medium.com/max/14400/1*gxm7kSHaGzG5o3u3LKiGCw.jpeg" width="7200" height="2400" srcSet="https://miro.medium.com/max/552/1*gxm7kSHaGzG5o3u3LKiGCw.jpeg 276w, https://miro.medium.com/max/1104/1*gxm7kSHaGzG5o3u3LKiGCw.jpeg 552w, https://miro.medium.com/max/1280/1*gxm7kSHaGzG5o3u3LKiGCw.jpeg 640w, https://miro.medium.com/max/1400/1*gxm7kSHaGzG5o3u3LKiGCw.jpeg 700w" sizes="700px"/></noscript></div>
-                </div>
-            </div>
-        </div>
-    </figure>
-    <figure class="je jf jg jh ji jj ge gf paragraph-image">
-        <div class="mm mn dc mo ai">
-            <div class="ge gf os">
-                <div class="jn r dc fs">
-                    <div class="ot jp r">
-                        <div class="db jk s t u eg ai av jl jm"></div><noscript><img alt="Image for post" class="s t u eg ai" src="https://miro.medium.com/max/14400/1*vxVVzH4mRffiV_1qA1ynMA.jpeg" width="7200" height="2400" srcSet="https://miro.medium.com/max/552/1*vxVVzH4mRffiV_1qA1ynMA.jpeg 276w, https://miro.medium.com/max/1104/1*vxVVzH4mRffiV_1qA1ynMA.jpeg 552w, https://miro.medium.com/max/1280/1*vxVVzH4mRffiV_1qA1ynMA.jpeg 640w, https://miro.medium.com/max/1400/1*vxVVzH4mRffiV_1qA1ynMA.jpeg 700w" sizes="700px"/></noscript></div>
-                </div>
-            </div>
-        </div>
-    </figure>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     <h1 id="080c" class="kq kr bx bw fh ks kt ku kv kw kx ky kz la lb lc ld le lf lg lh ap" data-selectable-paragraph="">Conclusion:</h1>
     <p id="8b45" class="jx jy bx ka b hs li kc hv lj ke kf lk ia kh ll id kj lm ig kl gs ap" data-selectable-paragraph="">By performing different ML model, our aim is to get a better result or less error with max accuracy. Our purpose was to predict the price of the used cars having 25 predictors and 509577 data entries.</p>
     <p id="4e6e" class="jx jy bx ka b hs kb kc hv kd ke kf kg ia kh ki id kj kk ig kl gs ap" data-selectable-paragraph="">Initially, data cleaning is performed to remove the null values and outliers from the dataset then ML models are implemented to predict the price of cars.</p>
