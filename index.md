@@ -2,20 +2,20 @@
 ### (Data Cleaning, Data Preprocessing, 8 Different ML Models and Some Insights from Data)
 
 You can reach all Python scripts relative to this on my github page. If you are interested, you can also find the scripts used for data cleaning and data visualization for this study in the same repository.
-Content
+## Content
     1. Data Cleaning (Identifying null values, filling missing values and removing outliers)
     2. Data Preprocessing (Standardization or Normalization)
     3. ML Models: Linear Regression, Ridge Regression, Lasso, KNN, Random Forest Regressor, Bagging Regressor, Adaboost Regressor, and XGBoost
     4. Comparison of the performance of the models
     5. Some insights from data
-Why price feature is scaled by log transformation?
+## Why price feature is scaled by log transformation?
 In the regression model, for any fixed value of X, Y is normally distributed in this problem data-target value (Price ) not normally distributed, it is right Skewed.
 To solve this problem, the log transformation on the target variable is applied when it has skewed distribution and we need to apply an inverse function on the predicted values to get the actual predicted target value.
 Due to this, for evaluating the model, the RMSLE is calculated to check the error and R2 Score is also calculated to evaluate the accuracy of the model.
-Some Key Concepts:
-    • Learning Rate: Learning rate is a hyper-parameter that controls how much we are adjusting the weights of our network with respect to the loss gradient. The lower the value, the slower we travel along the downward slope. While this might be a good idea (using a low learning rate) in terms of making sure that we do not miss any local minima, it could also mean that we’ll be taking a long time to converge — especially if we get stuck on a plateau region.
-    • n_estimators: This is the number of trees you want to build before taking the maximum voting or averages of predictions. A higher number of trees give you better performance but make your code slower.
-    • R² Score: It is a statistical measure of how close the data are to the fitted regression line. It is also known as the coefficient of determination, or the coefficient of multiple determination for multiple regression. 0% indicates that the model explains none of the variability of the response data around its mean.
+## Some Key Concepts:
+    ### Learning Rate: Learning rate is a hyper-parameter that controls how much we are adjusting the weights of our network with respect to the loss gradient. The lower the value, the slower we travel along the downward slope. While this might be a good idea (using a low learning rate) in terms of making sure that we do not miss any local minima, it could also mean that we’ll be taking a long time to converge — especially if we get stuck on a plateau region.
+    • ### n_estimators: This is the number of trees you want to build before taking the maximum voting or averages of predictions. A higher number of trees give you better performance but make your code slower.
+    • ### R² Score: It is a statistical measure of how close the data are to the fitted regression line. It is also known as the coefficient of determination, or the coefficient of multiple determination for multiple regression. 0% indicates that the model explains none of the variability of the response data around its mean.
 1. The Data:
 The dataset used in this project was downloaded from kaggle.
 2. Data Cleaning:
