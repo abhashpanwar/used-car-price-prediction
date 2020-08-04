@@ -32,15 +32,13 @@
         <div class="ge gf mj">
             <div class="jn r dc fs">
                 <div class="mk jp r">
-                    <img alt="Image for post" class="eu ve s t u eg ai jt" width="565" height="405" src="https://miro.medium.com/max/565/1*2EPrbZHIVWGSz6xAqUYIIA.png" srcset="https://miro.medium.com/max/276/1*2EPrbZHIVWGSz6xAqUYIIA.png 276w, https://miro.medium.com/max/552/1*2EPrbZHIVWGSz6xAqUYIIA.png 552w, https://miro.medium.com/max/565/1*2EPrbZHIVWGSz6xAqUYIIA.png 565w"
-                        sizes="565px"><noscript><img alt="Image for post" class="s t u eg ai" src="https://miro.medium.com/max/1130/1*2EPrbZHIVWGSz6xAqUYIIA.png" width="565" height="405" srcSet="https://miro.medium.com/max/552/1*2EPrbZHIVWGSz6xAqUYIIA.png 276w, https://miro.medium.com/max/1104/1*2EPrbZHIVWGSz6xAqUYIIA.png 552w, https://miro.medium.com/max/1130/1*2EPrbZHIVWGSz6xAqUYIIA.png 565w" sizes="565px"/></noscript></div>
+                    <img alt="Image for post" class="eu ve s t u eg ai jt" width="565" height="405" src="https://miro.medium.com/max/565/1*2EPrbZHIVWGSz6xAqUYIIA.png" srcset="https://miro.medium.com/max/276/1*2EPrbZHIVWGSz6xAqUYIIA.png 276w, https://miro.medium.com/max/552/1*2EPrbZHIVWGSz6xAqUYIIA.png 552w, https://miro.medium.com/max/565/1*2EPrbZHIVWGSz6xAqUYIIA.png 565w" sizes="565px"><noscript><img alt="Image for post" class="s t u eg ai" src="https://miro.medium.com/max/1130/1*2EPrbZHIVWGSz6xAqUYIIA.png" width="565" height="405" srcSet="https://miro.medium.com/max/552/1*2EPrbZHIVWGSz6xAqUYIIA.png 276w, https://miro.medium.com/max/1104/1*2EPrbZHIVWGSz6xAqUYIIA.png 552w, https://miro.medium.com/max/1130/1*2EPrbZHIVWGSz6xAqUYIIA.png 565w" sizes="565px"/></noscript></div>
             </div>
         </div>
     </figure>
     <p id="1e6e" class="jx jy bx ka b hs kb kc hv kd ke kf kg ia kh ki id kj kk ig kl gs ap" data-selectable-paragraph="">Next, now missing values were filled with appropriate values by an appropriate method.</p>
     <p id="772f" class="jx jy bx ka b hs kb kc hv kd ke kf kg ia kh ki id kj kk ig kl gs ap" data-selectable-paragraph="">To fill the missing values, <a href="https://scikit-learn.org/stable/modules/generated/sklearn.impute.IterativeImputer.html" class="cl dy km kn ko kp" target="_blank" rel="noopener nofollow"><em class="jz">IterativeImputer</em></a> method is used
-        and different estimators are implemented then calculated <a href="https://en.wikipedia.org/wiki/Mean_squared_error" class="cl dy km kn ko kp" target="_blank" rel="noopener nofollow"><em class="jz">MSE</em></a> of each estimator using <a href="https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.cross_val_score.html"
-            class="cl dy km kn ko kp" target="_blank" rel="noopener nofollow"><em class="jz">cross_val_score</em></a></p>
+        and different estimators are implemented then calculated <a href="https://en.wikipedia.org/wiki/Mean_squared_error" class="cl dy km kn ko kp" target="_blank" rel="noopener nofollow"><em class="jz">MSE</em></a> of each estimator using <a href="https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.cross_val_score.html" class="cl dy km kn ko kp" target="_blank" rel="noopener nofollow"><em class="jz">cross_val_score</em></a></p>
     <ol class="">
         <li id="8b67" class="jx jy bx ka b hs kb kc hv kd ke kf kg ia kh ki id kj kk ig kl ln lo lp ap" data-selectable-paragraph="">Mean and Median</li>
         <li id="a90b" class="jx jy bx ka b hs lq kc hv lr ke kf ls ia kh lt id kj lu ig kl ln lo lp ap" data-selectable-paragraph="">BayesianRidge Estimator</li>
@@ -53,8 +51,7 @@
             <div class="ge gf ml">
                 <div class="jn r dc fs">
                     <div class="mp jp r">
-                        <div class="db jk s t u eg ai av jl jm"></div><img alt="Image for post" class="eu ve s t u eg ai jt" width="864" height="432" src="https://miro.medium.com/max/864/1*5Mp3PscLpgg1Zmck6TqQnw.png" srcset="https://miro.medium.com/max/276/1*5Mp3PscLpgg1Zmck6TqQnw.png 276w, https://miro.medium.com/max/552/1*5Mp3PscLpgg1Zmck6TqQnw.png 552w, https://miro.medium.com/max/640/1*5Mp3PscLpgg1Zmck6TqQnw.png 640w, https://miro.medium.com/max/700/1*5Mp3PscLpgg1Zmck6TqQnw.png 700w"
-                            sizes="700px"><noscript><img alt="Image for post" class="s t u eg ai" src="https://miro.medium.com/max/1728/1*5Mp3PscLpgg1Zmck6TqQnw.png" width="864" height="432" srcSet="https://miro.medium.com/max/552/1*5Mp3PscLpgg1Zmck6TqQnw.png 276w, https://miro.medium.com/max/1104/1*5Mp3PscLpgg1Zmck6TqQnw.png 552w, https://miro.medium.com/max/1280/1*5Mp3PscLpgg1Zmck6TqQnw.png 640w, https://miro.medium.com/max/1400/1*5Mp3PscLpgg1Zmck6TqQnw.png 700w" sizes="700px"/></noscript></div>
+                        <div class="db jk s t u eg ai av jl jm"></div><img alt="Image for post" class="eu ve s t u eg ai jt" width="864" height="432" src="https://miro.medium.com/max/864/1*5Mp3PscLpgg1Zmck6TqQnw.png" srcset="https://miro.medium.com/max/276/1*5Mp3PscLpgg1Zmck6TqQnw.png 276w, https://miro.medium.com/max/552/1*5Mp3PscLpgg1Zmck6TqQnw.png 552w, https://miro.medium.com/max/640/1*5Mp3PscLpgg1Zmck6TqQnw.png 640w, https://miro.medium.com/max/700/1*5Mp3PscLpgg1Zmck6TqQnw.png 700w" sizes="700px"><noscript><img alt="Image for post" class="s t u eg ai" src="https://miro.medium.com/max/1728/1*5Mp3PscLpgg1Zmck6TqQnw.png" width="864" height="432" srcSet="https://miro.medium.com/max/552/1*5Mp3PscLpgg1Zmck6TqQnw.png 276w, https://miro.medium.com/max/1104/1*5Mp3PscLpgg1Zmck6TqQnw.png 552w, https://miro.medium.com/max/1280/1*5Mp3PscLpgg1Zmck6TqQnw.png 640w, https://miro.medium.com/max/1400/1*5Mp3PscLpgg1Zmck6TqQnw.png 700w" sizes="700px"/></noscript></div>
                 </div>
             </div>
         </div>
@@ -64,8 +61,7 @@
         <div class="ge gf mq">
             <div class="jn r dc fs">
                 <div class="mr jp r">
-                    <div class="db jk s t u eg ai av jl jm"></div><img alt="zero-null-value" class="eu ve s t u eg ai jt" width="419" height="430" src="https://miro.medium.com/max/419/1*7h8JugocaValwthZeXIo0A.png" srcset="https://miro.medium.com/max/276/1*7h8JugocaValwthZeXIo0A.png 276w, https://miro.medium.com/max/419/1*7h8JugocaValwthZeXIo0A.png 419w"
-                        sizes="419px"><noscript><img alt="zero-null-value" class="s t u eg ai" src="https://miro.medium.com/max/838/1*7h8JugocaValwthZeXIo0A.png" width="419" height="430" srcSet="https://miro.medium.com/max/552/1*7h8JugocaValwthZeXIo0A.png 276w, https://miro.medium.com/max/838/1*7h8JugocaValwthZeXIo0A.png 419w" sizes="419px"/></noscript></div>
+                    <div class="db jk s t u eg ai av jl jm"></div><img alt="zero-null-value" class="eu ve s t u eg ai jt" width="419" height="430" src="https://miro.medium.com/max/419/1*7h8JugocaValwthZeXIo0A.png" srcset="https://miro.medium.com/max/276/1*7h8JugocaValwthZeXIo0A.png 276w, https://miro.medium.com/max/419/1*7h8JugocaValwthZeXIo0A.png 419w" sizes="419px"><noscript><img alt="zero-null-value" class="s t u eg ai" src="https://miro.medium.com/max/838/1*7h8JugocaValwthZeXIo0A.png" width="419" height="430" srcSet="https://miro.medium.com/max/552/1*7h8JugocaValwthZeXIo0A.png 276w, https://miro.medium.com/max/838/1*7h8JugocaValwthZeXIo0A.png 419w" sizes="419px"/></noscript></div>
             </div>
         </div>
     </figure>
@@ -75,8 +71,7 @@
         <div class="ge gf ms">
             <div class="jn r dc fs">
                 <div class="mt jp r">
-                    <div class="db jk s t u eg ai av jl jm"></div><img alt="Image for post" class="eu ve s t u eg ai jt" width="432" height="288" src="https://miro.medium.com/max/432/1*J3alPNZZJ4Wm9WHf0btCnQ.jpeg" srcset="https://miro.medium.com/max/276/1*J3alPNZZJ4Wm9WHf0btCnQ.jpeg 276w, https://miro.medium.com/max/432/1*J3alPNZZJ4Wm9WHf0btCnQ.jpeg 432w"
-                        sizes="432px"><noscript><img alt="Image for post" class="s t u eg ai" src="https://miro.medium.com/max/864/1*J3alPNZZJ4Wm9WHf0btCnQ.jpeg" width="432" height="288" srcSet="https://miro.medium.com/max/552/1*J3alPNZZJ4Wm9WHf0btCnQ.jpeg 276w, https://miro.medium.com/max/864/1*J3alPNZZJ4Wm9WHf0btCnQ.jpeg 432w" sizes="432px"/></noscript></div>
+                    <div class="db jk s t u eg ai av jl jm"></div><img alt="Image for post" class="eu ve s t u eg ai jt" width="432" height="288" src="https://miro.medium.com/max/432/1*J3alPNZZJ4Wm9WHf0btCnQ.jpeg" srcset="https://miro.medium.com/max/276/1*J3alPNZZJ4Wm9WHf0btCnQ.jpeg 276w, https://miro.medium.com/max/432/1*J3alPNZZJ4Wm9WHf0btCnQ.jpeg 432w" sizes="432px"><noscript><img alt="Image for post" class="s t u eg ai" src="https://miro.medium.com/max/864/1*J3alPNZZJ4Wm9WHf0btCnQ.jpeg" width="432" height="288" srcSet="https://miro.medium.com/max/552/1*J3alPNZZJ4Wm9WHf0btCnQ.jpeg 276w, https://miro.medium.com/max/864/1*J3alPNZZJ4Wm9WHf0btCnQ.jpeg 432w" sizes="432px"/></noscript></div>
             </div>
         </div>
     </figure>
@@ -84,8 +79,7 @@
         <div class="ge gf ms">
             <div class="jn r dc fs">
                 <div class="mt jp r">
-                    <div class="db jk s t u eg ai av jl jm"></div><img alt="Image for post" class="eu ve s t u eg ai jt" width="432" height="288" src="https://miro.medium.com/max/432/1*MBJDuHn4xIPy_7EzoH5STA.jpeg" srcset="https://miro.medium.com/max/276/1*MBJDuHn4xIPy_7EzoH5STA.jpeg 276w, https://miro.medium.com/max/432/1*MBJDuHn4xIPy_7EzoH5STA.jpeg 432w"
-                        sizes="432px"><noscript><img alt="Image for post" class="s t u eg ai" src="https://miro.medium.com/max/864/1*MBJDuHn4xIPy_7EzoH5STA.jpeg" width="432" height="288" srcSet="https://miro.medium.com/max/552/1*MBJDuHn4xIPy_7EzoH5STA.jpeg 276w, https://miro.medium.com/max/864/1*MBJDuHn4xIPy_7EzoH5STA.jpeg 432w" sizes="432px"/></noscript></div>
+                    <div class="db jk s t u eg ai av jl jm"></div><img alt="Image for post" class="eu ve s t u eg ai jt" width="432" height="288" src="https://miro.medium.com/max/432/1*MBJDuHn4xIPy_7EzoH5STA.jpeg" srcset="https://miro.medium.com/max/276/1*MBJDuHn4xIPy_7EzoH5STA.jpeg 276w, https://miro.medium.com/max/432/1*MBJDuHn4xIPy_7EzoH5STA.jpeg 432w" sizes="432px"><noscript><img alt="Image for post" class="s t u eg ai" src="https://miro.medium.com/max/864/1*MBJDuHn4xIPy_7EzoH5STA.jpeg" width="432" height="288" srcSet="https://miro.medium.com/max/552/1*MBJDuHn4xIPy_7EzoH5STA.jpeg 276w, https://miro.medium.com/max/864/1*MBJDuHn4xIPy_7EzoH5STA.jpeg 432w" sizes="432px"/></noscript></div>
             </div>
         </div>
     </figure>
@@ -139,8 +133,7 @@
             <div class="ge gf mw">
                 <div class="jn r dc fs">
                     <div class="mp jp r">
-                        <div class="db jk s t u eg ai av jl jm"></div><img alt="Image for post" class="eu ve s t u eg ai jt" width="720" height="360" src="https://miro.medium.com/max/720/1*2xeokQnLn7xbZ2Ipw5tLDw.png" srcset="https://miro.medium.com/max/276/1*2xeokQnLn7xbZ2Ipw5tLDw.png 276w, https://miro.medium.com/max/552/1*2xeokQnLn7xbZ2Ipw5tLDw.png 552w, https://miro.medium.com/max/640/1*2xeokQnLn7xbZ2Ipw5tLDw.png 640w, https://miro.medium.com/max/700/1*2xeokQnLn7xbZ2Ipw5tLDw.png 700w"
-                            sizes="700px"><noscript><img alt="Image for post" class="s t u eg ai" src="https://miro.medium.com/max/1440/1*2xeokQnLn7xbZ2Ipw5tLDw.png" width="720" height="360" srcSet="https://miro.medium.com/max/552/1*2xeokQnLn7xbZ2Ipw5tLDw.png 276w, https://miro.medium.com/max/1104/1*2xeokQnLn7xbZ2Ipw5tLDw.png 552w, https://miro.medium.com/max/1280/1*2xeokQnLn7xbZ2Ipw5tLDw.png 640w, https://miro.medium.com/max/1400/1*2xeokQnLn7xbZ2Ipw5tLDw.png 700w" sizes="700px"/></noscript></div>
+                        <div class="db jk s t u eg ai av jl jm"></div><img alt="Image for post" class="eu ve s t u eg ai jt" width="720" height="360" src="https://miro.medium.com/max/720/1*2xeokQnLn7xbZ2Ipw5tLDw.png" srcset="https://miro.medium.com/max/276/1*2xeokQnLn7xbZ2Ipw5tLDw.png 276w, https://miro.medium.com/max/552/1*2xeokQnLn7xbZ2Ipw5tLDw.png 552w, https://miro.medium.com/max/640/1*2xeokQnLn7xbZ2Ipw5tLDw.png 640w, https://miro.medium.com/max/700/1*2xeokQnLn7xbZ2Ipw5tLDw.png 700w" sizes="700px"><noscript><img alt="Image for post" class="s t u eg ai" src="https://miro.medium.com/max/1440/1*2xeokQnLn7xbZ2Ipw5tLDw.png" width="720" height="360" srcSet="https://miro.medium.com/max/552/1*2xeokQnLn7xbZ2Ipw5tLDw.png 276w, https://miro.medium.com/max/1104/1*2xeokQnLn7xbZ2Ipw5tLDw.png 552w, https://miro.medium.com/max/1280/1*2xeokQnLn7xbZ2Ipw5tLDw.png 640w, https://miro.medium.com/max/1400/1*2xeokQnLn7xbZ2Ipw5tLDw.png 700w" sizes="700px"/></noscript></div>
                 </div>
             </div>
         </div>
@@ -149,8 +142,7 @@
         <div class="ge gf ms">
             <div class="jn r dc fs">
                 <div class="ni jp r">
-                    <div class="db jk s t u eg ai av jl jm"></div><img alt="Image for post" class="eu ve s t u eg ai jt" width="432" height="432" src="https://miro.medium.com/max/432/1*Pi93nxezaDaeqFnf-mbtXA.jpeg" srcset="https://miro.medium.com/max/276/1*Pi93nxezaDaeqFnf-mbtXA.jpeg 276w, https://miro.medium.com/max/432/1*Pi93nxezaDaeqFnf-mbtXA.jpeg 432w"
-                        sizes="432px"><noscript><img alt="Image for post" class="s t u eg ai" src="https://miro.medium.com/max/864/1*Pi93nxezaDaeqFnf-mbtXA.jpeg" width="432" height="432" srcSet="https://miro.medium.com/max/552/1*Pi93nxezaDaeqFnf-mbtXA.jpeg 276w, https://miro.medium.com/max/864/1*Pi93nxezaDaeqFnf-mbtXA.jpeg 432w" sizes="432px"/></noscript></div>
+                    <div class="db jk s t u eg ai av jl jm"></div><img alt="Image for post" class="eu ve s t u eg ai jt" width="432" height="432" src="https://miro.medium.com/max/432/1*Pi93nxezaDaeqFnf-mbtXA.jpeg" srcset="https://miro.medium.com/max/276/1*Pi93nxezaDaeqFnf-mbtXA.jpeg 276w, https://miro.medium.com/max/432/1*Pi93nxezaDaeqFnf-mbtXA.jpeg 432w" sizes="432px"><noscript><img alt="Image for post" class="s t u eg ai" src="https://miro.medium.com/max/864/1*Pi93nxezaDaeqFnf-mbtXA.jpeg" width="432" height="432" srcSet="https://miro.medium.com/max/552/1*Pi93nxezaDaeqFnf-mbtXA.jpeg 276w, https://miro.medium.com/max/864/1*Pi93nxezaDaeqFnf-mbtXA.jpeg 432w" sizes="432px"/></noscript></div>
             </div>
         </div>
     </figure>
@@ -159,8 +151,7 @@
         <div class="ge gf nj">
             <div class="jn r dc fs">
                 <div class="nk jp r">
-                    <div class="db jk s t u eg ai av jl jm"></div><img alt="Image for post" class="eu ve s t u eg ai jt" width="559" height="128" src="https://miro.medium.com/max/559/1*8BEVfmm_vEGtHw1tdhkEOQ.png" srcset="https://miro.medium.com/max/276/1*8BEVfmm_vEGtHw1tdhkEOQ.png 276w, https://miro.medium.com/max/552/1*8BEVfmm_vEGtHw1tdhkEOQ.png 552w, https://miro.medium.com/max/559/1*8BEVfmm_vEGtHw1tdhkEOQ.png 559w"
-                        sizes="559px"><noscript><img alt="Image for post" class="s t u eg ai" src="https://miro.medium.com/max/1118/1*8BEVfmm_vEGtHw1tdhkEOQ.png" width="559" height="128" srcSet="https://miro.medium.com/max/552/1*8BEVfmm_vEGtHw1tdhkEOQ.png 276w, https://miro.medium.com/max/1104/1*8BEVfmm_vEGtHw1tdhkEOQ.png 552w, https://miro.medium.com/max/1118/1*8BEVfmm_vEGtHw1tdhkEOQ.png 559w" sizes="559px"/></noscript></div>
+                    <div class="db jk s t u eg ai av jl jm"></div><img alt="Image for post" class="eu ve s t u eg ai jt" width="559" height="128" src="https://miro.medium.com/max/559/1*8BEVfmm_vEGtHw1tdhkEOQ.png" srcset="https://miro.medium.com/max/276/1*8BEVfmm_vEGtHw1tdhkEOQ.png 276w, https://miro.medium.com/max/552/1*8BEVfmm_vEGtHw1tdhkEOQ.png 552w, https://miro.medium.com/max/559/1*8BEVfmm_vEGtHw1tdhkEOQ.png 559w" sizes="559px"><noscript><img alt="Image for post" class="s t u eg ai" src="https://miro.medium.com/max/1118/1*8BEVfmm_vEGtHw1tdhkEOQ.png" width="559" height="128" srcSet="https://miro.medium.com/max/552/1*8BEVfmm_vEGtHw1tdhkEOQ.png 276w, https://miro.medium.com/max/1104/1*8BEVfmm_vEGtHw1tdhkEOQ.png 552w, https://miro.medium.com/max/1118/1*8BEVfmm_vEGtHw1tdhkEOQ.png 559w" sizes="559px"/></noscript></div>
             </div>
         </div>
     </figure>
@@ -172,8 +163,7 @@
         <div class="ge gf nl">
             <div class="jn r dc fs">
                 <div class="nm jp r">
-                    <div class="db jk s t u eg ai av jl jm"></div><img alt="Image for post" class="eu ve s t u eg ai jt" width="331" height="329" src="https://miro.medium.com/max/331/1*8HDeCd_6C6UPXg28gqLwBA.png" srcset="https://miro.medium.com/max/276/1*8HDeCd_6C6UPXg28gqLwBA.png 276w, https://miro.medium.com/max/331/1*8HDeCd_6C6UPXg28gqLwBA.png 331w"
-                        sizes="331px"><noscript><img alt="Image for post" class="s t u eg ai" src="https://miro.medium.com/max/662/1*8HDeCd_6C6UPXg28gqLwBA.png" width="331" height="329" srcSet="https://miro.medium.com/max/552/1*8HDeCd_6C6UPXg28gqLwBA.png 276w, https://miro.medium.com/max/662/1*8HDeCd_6C6UPXg28gqLwBA.png 331w" sizes="331px"/></noscript></div>
+                    <div class="db jk s t u eg ai av jl jm"></div><img alt="Image for post" class="eu ve s t u eg ai jt" width="331" height="329" src="https://miro.medium.com/max/331/1*8HDeCd_6C6UPXg28gqLwBA.png" srcset="https://miro.medium.com/max/276/1*8HDeCd_6C6UPXg28gqLwBA.png 276w, https://miro.medium.com/max/331/1*8HDeCd_6C6UPXg28gqLwBA.png 331w" sizes="331px"><noscript><img alt="Image for post" class="s t u eg ai" src="https://miro.medium.com/max/662/1*8HDeCd_6C6UPXg28gqLwBA.png" width="331" height="329" srcSet="https://miro.medium.com/max/552/1*8HDeCd_6C6UPXg28gqLwBA.png 276w, https://miro.medium.com/max/662/1*8HDeCd_6C6UPXg28gqLwBA.png 331w" sizes="331px"/></noscript></div>
             </div>
         </div>
     </figure>
@@ -184,8 +174,7 @@
         <div class="ge gf ms">
             <div class="jn r dc fs">
                 <div class="ni jp r">
-                    <div class="db jk s t u eg ai av jl jm"></div><img alt="Image for post" class="eu ve s t u eg ai jt" width="432" height="432" src="https://miro.medium.com/max/432/1*JCldwUXZFuxhUFzXXmaHGg.jpeg" srcset="https://miro.medium.com/max/276/1*JCldwUXZFuxhUFzXXmaHGg.jpeg 276w, https://miro.medium.com/max/432/1*JCldwUXZFuxhUFzXXmaHGg.jpeg 432w"
-                        sizes="432px"><noscript><img alt="Image for post" class="s t u eg ai" src="https://miro.medium.com/max/864/1*JCldwUXZFuxhUFzXXmaHGg.jpeg" width="432" height="432" srcSet="https://miro.medium.com/max/552/1*JCldwUXZFuxhUFzXXmaHGg.jpeg 276w, https://miro.medium.com/max/864/1*JCldwUXZFuxhUFzXXmaHGg.jpeg 432w" sizes="432px"/></noscript></div>
+                    <div class="db jk s t u eg ai av jl jm"></div><img alt="Image for post" class="eu ve s t u eg ai jt" width="432" height="432" src="https://miro.medium.com/max/432/1*JCldwUXZFuxhUFzXXmaHGg.jpeg" srcset="https://miro.medium.com/max/276/1*JCldwUXZFuxhUFzXXmaHGg.jpeg 276w, https://miro.medium.com/max/432/1*JCldwUXZFuxhUFzXXmaHGg.jpeg 432w" sizes="432px"><noscript><img alt="Image for post" class="s t u eg ai" src="https://miro.medium.com/max/864/1*JCldwUXZFuxhUFzXXmaHGg.jpeg" width="432" height="432" srcSet="https://miro.medium.com/max/552/1*JCldwUXZFuxhUFzXXmaHGg.jpeg 276w, https://miro.medium.com/max/864/1*JCldwUXZFuxhUFzXXmaHGg.jpeg 432w" sizes="432px"/></noscript></div>
             </div>
         </div>
     </figure>
@@ -194,8 +183,7 @@
         <div class="ge gf nn">
             <div class="jn r dc fs">
                 <div class="no jp r">
-                    <div class="db jk s t u eg ai av jl jm"></div><img alt="Image for post" class="eu ve s t u eg ai jt" width="560" height="140" src="https://miro.medium.com/max/560/1*uEVvsEUyBM1fdv6kRErZZg.png" srcset="https://miro.medium.com/max/276/1*uEVvsEUyBM1fdv6kRErZZg.png 276w, https://miro.medium.com/max/552/1*uEVvsEUyBM1fdv6kRErZZg.png 552w, https://miro.medium.com/max/560/1*uEVvsEUyBM1fdv6kRErZZg.png 560w"
-                        sizes="560px"><noscript><img alt="Image for post" class="s t u eg ai" src="https://miro.medium.com/max/1120/1*uEVvsEUyBM1fdv6kRErZZg.png" width="560" height="140" srcSet="https://miro.medium.com/max/552/1*uEVvsEUyBM1fdv6kRErZZg.png 276w, https://miro.medium.com/max/1104/1*uEVvsEUyBM1fdv6kRErZZg.png 552w, https://miro.medium.com/max/1120/1*uEVvsEUyBM1fdv6kRErZZg.png 560w" sizes="560px"/></noscript></div>
+                    <div class="db jk s t u eg ai av jl jm"></div><img alt="Image for post" class="eu ve s t u eg ai jt" width="560" height="140" src="https://miro.medium.com/max/560/1*uEVvsEUyBM1fdv6kRErZZg.png" srcset="https://miro.medium.com/max/276/1*uEVvsEUyBM1fdv6kRErZZg.png 276w, https://miro.medium.com/max/552/1*uEVvsEUyBM1fdv6kRErZZg.png 552w, https://miro.medium.com/max/560/1*uEVvsEUyBM1fdv6kRErZZg.png 560w" sizes="560px"><noscript><img alt="Image for post" class="s t u eg ai" src="https://miro.medium.com/max/1120/1*uEVvsEUyBM1fdv6kRErZZg.png" width="560" height="140" srcSet="https://miro.medium.com/max/552/1*uEVvsEUyBM1fdv6kRErZZg.png 276w, https://miro.medium.com/max/1104/1*uEVvsEUyBM1fdv6kRErZZg.png 552w, https://miro.medium.com/max/1120/1*uEVvsEUyBM1fdv6kRErZZg.png 560w" sizes="560px"/></noscript></div>
             </div>
         </div>
     </figure>
@@ -209,23 +197,19 @@
         <div class="ge gf np">
             <div class="jn r dc fs">
                 <div class="nq jp r">
-                    <div class="db jk s t u eg ai av jl jm"></div><img alt="Image for post" class="eu ve s t u eg ai jt" width="556" height="125" src="https://miro.medium.com/max/556/1*6RYwCGUqNXZrKReGji1TUA.png" srcset="https://miro.medium.com/max/276/1*6RYwCGUqNXZrKReGji1TUA.png 276w, https://miro.medium.com/max/552/1*6RYwCGUqNXZrKReGji1TUA.png 552w, https://miro.medium.com/max/556/1*6RYwCGUqNXZrKReGji1TUA.png 556w"
-                        sizes="556px"><noscript><img alt="Image for post" class="s t u eg ai" src="https://miro.medium.com/max/1112/1*6RYwCGUqNXZrKReGji1TUA.png" width="556" height="125" srcSet="https://miro.medium.com/max/552/1*6RYwCGUqNXZrKReGji1TUA.png 276w, https://miro.medium.com/max/1104/1*6RYwCGUqNXZrKReGji1TUA.png 552w, https://miro.medium.com/max/1112/1*6RYwCGUqNXZrKReGji1TUA.png 556w" sizes="556px"/></noscript></div>
+                    <div class="db jk s t u eg ai av jl jm"></div><img alt="Image for post" class="eu ve s t u eg ai jt" width="556" height="125" src="https://miro.medium.com/max/556/1*6RYwCGUqNXZrKReGji1TUA.png" srcset="https://miro.medium.com/max/276/1*6RYwCGUqNXZrKReGji1TUA.png 276w, https://miro.medium.com/max/552/1*6RYwCGUqNXZrKReGji1TUA.png 552w, https://miro.medium.com/max/556/1*6RYwCGUqNXZrKReGji1TUA.png 556w" sizes="556px"><noscript><img alt="Image for post" class="s t u eg ai" src="https://miro.medium.com/max/1112/1*6RYwCGUqNXZrKReGji1TUA.png" width="556" height="125" srcSet="https://miro.medium.com/max/552/1*6RYwCGUqNXZrKReGji1TUA.png 276w, https://miro.medium.com/max/1104/1*6RYwCGUqNXZrKReGji1TUA.png 552w, https://miro.medium.com/max/1112/1*6RYwCGUqNXZrKReGji1TUA.png 556w" sizes="556px"/></noscript></div>
             </div>
         </div>
     </figure>
     <p id="8008" class="jx jy bx ka b hs kb kc hv kd ke kf kg ia kh ki id kj kk ig kl gs ap" data-selectable-paragraph="">But for this dataset, there is no need for lasso regression as there no much difference in error.</p>
     <h2 id="c564" class="lv kr bx bw fh lw lx kc ly lz ke ma mb ia mc md id me mf ig mg ap" data-selectable-paragraph="">4)KNeighbors Regressor: Regression-based on k-nearest neighbors.</h2>
     <p id="f080" class="jx jy bx ka b hs li kc hv lj ke kf lk ia kh ll id kj lm ig kl gs ap" data-selectable-paragraph="">The target is predicted by local interpolation of the targets associated with the nearest neighbors in the training set.</p>
-    <p id="1632" class="jx jy bx ka b hs kb kc hv kd ke kf kg ia kh ki id kj kk ig kl gs ap" data-selectable-paragraph=""><em class="jz">k</em>-NN is a type of <a href="https://en.wikipedia.org/wiki/Instance-based_learning" class="cl dy km kn ko kp" target="_blank" rel="noopener nofollow">instance-based learning</a>, or <a href="https://en.wikipedia.org/wiki/Lazy_learning"
-            class="cl dy km kn ko kp" target="_blank" rel="noopener nofollow">lazy learning</a>, where the function is only approximated locally and all computation is deferred until function evaluation. <a href="https://www.kite.com/python/docs/sklearn.neighbors.KNeighborsRegressor"
-            class="cl dy km kn ko kp" target="_blank" rel="noopener nofollow"><strong class="ka mi"><em class="jz">Read More</em></strong></a></p>
+    <p id="1632" class="jx jy bx ka b hs kb kc hv kd ke kf kg ia kh ki id kj kk ig kl gs ap" data-selectable-paragraph=""><em class="jz">k</em>-NN is a type of <a href="https://en.wikipedia.org/wiki/Instance-based_learning" class="cl dy km kn ko kp" target="_blank" rel="noopener nofollow">instance-based learning</a>, or <a href="https://en.wikipedia.org/wiki/Lazy_learning" class="cl dy km kn ko kp" target="_blank" rel="noopener nofollow">lazy learning</a>, where the function is only approximated locally and all computation is deferred until function evaluation. <a href="https://www.kite.com/python/docs/sklearn.neighbors.KNeighborsRegressor" class="cl dy km kn ko kp" target="_blank" rel="noopener nofollow"><strong class="ka mi"><em class="jz">Read More</em></strong></a></p>
     <figure class="je jf jg jh ji jj ge gf paragraph-image">
         <div class="ge gf nr">
             <div class="jn r dc fs">
                 <div class="ns jp r">
-                    <div class="db jk s t u eg ai av jl jm"></div><img alt="Image for post" class="eu ve s t u eg ai jt" width="665" height="222" src="https://miro.medium.com/max/665/1*ozTH4P3Hi0Cw4_rKQPSGtA.png" srcset="https://miro.medium.com/max/276/1*ozTH4P3Hi0Cw4_rKQPSGtA.png 276w, https://miro.medium.com/max/552/1*ozTH4P3Hi0Cw4_rKQPSGtA.png 552w, https://miro.medium.com/max/640/1*ozTH4P3Hi0Cw4_rKQPSGtA.png 640w, https://miro.medium.com/max/665/1*ozTH4P3Hi0Cw4_rKQPSGtA.png 665w"
-                        sizes="665px"><noscript><img alt="Image for post" class="s t u eg ai" src="https://miro.medium.com/max/1330/1*ozTH4P3Hi0Cw4_rKQPSGtA.png" width="665" height="222" srcSet="https://miro.medium.com/max/552/1*ozTH4P3Hi0Cw4_rKQPSGtA.png 276w, https://miro.medium.com/max/1104/1*ozTH4P3Hi0Cw4_rKQPSGtA.png 552w, https://miro.medium.com/max/1280/1*ozTH4P3Hi0Cw4_rKQPSGtA.png 640w, https://miro.medium.com/max/1330/1*ozTH4P3Hi0Cw4_rKQPSGtA.png 665w" sizes="665px"/></noscript></div>
+                    <div class="db jk s t u eg ai av jl jm"></div><img alt="Image for post" class="eu ve s t u eg ai jt" width="665" height="222" src="https://miro.medium.com/max/665/1*ozTH4P3Hi0Cw4_rKQPSGtA.png" srcset="https://miro.medium.com/max/276/1*ozTH4P3Hi0Cw4_rKQPSGtA.png 276w, https://miro.medium.com/max/552/1*ozTH4P3Hi0Cw4_rKQPSGtA.png 552w, https://miro.medium.com/max/640/1*ozTH4P3Hi0Cw4_rKQPSGtA.png 640w, https://miro.medium.com/max/665/1*ozTH4P3Hi0Cw4_rKQPSGtA.png 665w" sizes="665px"><noscript><img alt="Image for post" class="s t u eg ai" src="https://miro.medium.com/max/1330/1*ozTH4P3Hi0Cw4_rKQPSGtA.png" width="665" height="222" srcSet="https://miro.medium.com/max/552/1*ozTH4P3Hi0Cw4_rKQPSGtA.png 276w, https://miro.medium.com/max/1104/1*ozTH4P3Hi0Cw4_rKQPSGtA.png 552w, https://miro.medium.com/max/1280/1*ozTH4P3Hi0Cw4_rKQPSGtA.png 640w, https://miro.medium.com/max/1330/1*ozTH4P3Hi0Cw4_rKQPSGtA.png 665w" sizes="665px"/></noscript></div>
             </div>
         </div>
     </figure>
@@ -234,8 +218,7 @@
         <div class="ge gf nt">
             <div class="jn r dc fs">
                 <div class="nu jp r">
-                    <div class="db jk s t u eg ai av jl jm"></div><img alt="Image for post" class="eu ve s t u eg ai jt" width="550" height="125" src="https://miro.medium.com/max/550/1*emXX4dcH_AWq7xbnrFokSA.png" srcset="https://miro.medium.com/max/276/1*emXX4dcH_AWq7xbnrFokSA.png 276w, https://miro.medium.com/max/550/1*emXX4dcH_AWq7xbnrFokSA.png 550w"
-                        sizes="550px"><noscript><img alt="Image for post" class="s t u eg ai" src="https://miro.medium.com/max/1100/1*emXX4dcH_AWq7xbnrFokSA.png" width="550" height="125" srcSet="https://miro.medium.com/max/552/1*emXX4dcH_AWq7xbnrFokSA.png 276w, https://miro.medium.com/max/1100/1*emXX4dcH_AWq7xbnrFokSA.png 550w" sizes="550px"/></noscript></div>
+                    <div class="db jk s t u eg ai av jl jm"></div><img alt="Image for post" class="eu ve s t u eg ai jt" width="550" height="125" src="https://miro.medium.com/max/550/1*emXX4dcH_AWq7xbnrFokSA.png" srcset="https://miro.medium.com/max/276/1*emXX4dcH_AWq7xbnrFokSA.png 276w, https://miro.medium.com/max/550/1*emXX4dcH_AWq7xbnrFokSA.png 550w" sizes="550px"><noscript><img alt="Image for post" class="s t u eg ai" src="https://miro.medium.com/max/1100/1*emXX4dcH_AWq7xbnrFokSA.png" width="550" height="125" srcSet="https://miro.medium.com/max/552/1*emXX4dcH_AWq7xbnrFokSA.png 276w, https://miro.medium.com/max/1100/1*emXX4dcH_AWq7xbnrFokSA.png 550w" sizes="550px"/></noscript></div>
             </div>
         </div>
     </figure>
@@ -249,8 +232,7 @@
             <div class="ge gf mw">
                 <div class="jn r dc fs">
                     <div class="mp jp r">
-                        <div class="db jk s t u eg ai av jl jm"></div><img alt="Image for post" class="eu ve s t u eg ai jt" width="720" height="360" src="https://miro.medium.com/max/720/1*zkcpztR7BL97M_gJKnbJ4w.jpeg" srcset="https://miro.medium.com/max/276/1*zkcpztR7BL97M_gJKnbJ4w.jpeg 276w, https://miro.medium.com/max/552/1*zkcpztR7BL97M_gJKnbJ4w.jpeg 552w, https://miro.medium.com/max/640/1*zkcpztR7BL97M_gJKnbJ4w.jpeg 640w, https://miro.medium.com/max/700/1*zkcpztR7BL97M_gJKnbJ4w.jpeg 700w"
-                            sizes="700px"><noscript><img alt="Image for post" class="s t u eg ai" src="https://miro.medium.com/max/1440/1*zkcpztR7BL97M_gJKnbJ4w.jpeg" width="720" height="360" srcSet="https://miro.medium.com/max/552/1*zkcpztR7BL97M_gJKnbJ4w.jpeg 276w, https://miro.medium.com/max/1104/1*zkcpztR7BL97M_gJKnbJ4w.jpeg 552w, https://miro.medium.com/max/1280/1*zkcpztR7BL97M_gJKnbJ4w.jpeg 640w, https://miro.medium.com/max/1400/1*zkcpztR7BL97M_gJKnbJ4w.jpeg 700w" sizes="700px"/></noscript></div>
+                        <div class="db jk s t u eg ai av jl jm"></div><img alt="Image for post" class="eu ve s t u eg ai jt" width="720" height="360" src="https://miro.medium.com/max/720/1*zkcpztR7BL97M_gJKnbJ4w.jpeg" srcset="https://miro.medium.com/max/276/1*zkcpztR7BL97M_gJKnbJ4w.jpeg 276w, https://miro.medium.com/max/552/1*zkcpztR7BL97M_gJKnbJ4w.jpeg 552w, https://miro.medium.com/max/640/1*zkcpztR7BL97M_gJKnbJ4w.jpeg 640w, https://miro.medium.com/max/700/1*zkcpztR7BL97M_gJKnbJ4w.jpeg 700w" sizes="700px"><noscript><img alt="Image for post" class="s t u eg ai" src="https://miro.medium.com/max/1440/1*zkcpztR7BL97M_gJKnbJ4w.jpeg" width="720" height="360" srcSet="https://miro.medium.com/max/552/1*zkcpztR7BL97M_gJKnbJ4w.jpeg 276w, https://miro.medium.com/max/1104/1*zkcpztR7BL97M_gJKnbJ4w.jpeg 552w, https://miro.medium.com/max/1280/1*zkcpztR7BL97M_gJKnbJ4w.jpeg 640w, https://miro.medium.com/max/1400/1*zkcpztR7BL97M_gJKnbJ4w.jpeg 700w" sizes="700px"/></noscript></div>
                 </div>
             </div>
         </div>
@@ -270,9 +252,7 @@
         <div class="ge gf nw">
             <div class="jn r dc fs">
                 <div class="nx jp r">
-                    <div class="db jk s t u eg ai av jl jm"><img alt="Image for post" class="s t u eg ai jq jr bc vu" src="https://miro.medium.com/max/60/1*j_A8fK0kDW4XamxL7Fch3A.png?q=20" width="557" height="124"></div><img alt="Image for post" class="eu ve s t u eg ai jt" width="557" height="124"
-                        src="https://miro.medium.com/max/557/1*j_A8fK0kDW4XamxL7Fch3A.png" srcset="https://miro.medium.com/max/276/1*j_A8fK0kDW4XamxL7Fch3A.png 276w, https://miro.medium.com/max/552/1*j_A8fK0kDW4XamxL7Fch3A.png 552w, https://miro.medium.com/max/557/1*j_A8fK0kDW4XamxL7Fch3A.png 557w"
-                        sizes="557px"><noscript><img alt="Image for post" class="s t u eg ai" src="https://miro.medium.com/max/1114/1*j_A8fK0kDW4XamxL7Fch3A.png" width="557" height="124" srcSet="https://miro.medium.com/max/552/1*j_A8fK0kDW4XamxL7Fch3A.png 276w, https://miro.medium.com/max/1104/1*j_A8fK0kDW4XamxL7Fch3A.png 552w, https://miro.medium.com/max/1114/1*j_A8fK0kDW4XamxL7Fch3A.png 557w" sizes="557px"/></noscript></div>
+                    <div class="db jk s t u eg ai av jl jm"></div><img alt="Image for post" class="eu ve s t u eg ai jt" width="557" height="124" src="https://miro.medium.com/max/557/1*j_A8fK0kDW4XamxL7Fch3A.png" srcset="https://miro.medium.com/max/276/1*j_A8fK0kDW4XamxL7Fch3A.png 276w, https://miro.medium.com/max/552/1*j_A8fK0kDW4XamxL7Fch3A.png 552w, https://miro.medium.com/max/557/1*j_A8fK0kDW4XamxL7Fch3A.png 557w" sizes="557px"><noscript><img alt="Image for post" class="s t u eg ai" src="https://miro.medium.com/max/1114/1*j_A8fK0kDW4XamxL7Fch3A.png" width="557" height="124" srcSet="https://miro.medium.com/max/552/1*j_A8fK0kDW4XamxL7Fch3A.png 276w, https://miro.medium.com/max/1104/1*j_A8fK0kDW4XamxL7Fch3A.png 552w, https://miro.medium.com/max/1114/1*j_A8fK0kDW4XamxL7Fch3A.png 557w" sizes="557px"/></noscript></div>
             </div>
         </div>
     </figure>
@@ -287,8 +267,7 @@
         <div class="ge gf ny">
             <div class="jn r dc fs">
                 <div class="nz jp r">
-                    <div class="db jk s t u eg ai av jl jm"><img alt="Image for post" class="s t u eg ai jq jr bc vu" src="https://miro.medium.com/max/60/1*cAW2QHkrcotgdGiBUgZn_Q.png?q=20" width="547" height="120"></div><img alt="Image for post" class="eu ve s t u eg ai jt" width="547" height="120"
-                        src="https://miro.medium.com/max/547/1*cAW2QHkrcotgdGiBUgZn_Q.png" srcset="https://miro.medium.com/max/276/1*cAW2QHkrcotgdGiBUgZn_Q.png 276w, https://miro.medium.com/max/547/1*cAW2QHkrcotgdGiBUgZn_Q.png 547w" sizes="547px"><noscript><img alt="Image for post" class="s t u eg ai" src="https://miro.medium.com/max/1094/1*cAW2QHkrcotgdGiBUgZn_Q.png" width="547" height="120" srcSet="https://miro.medium.com/max/552/1*cAW2QHkrcotgdGiBUgZn_Q.png 276w, https://miro.medium.com/max/1094/1*cAW2QHkrcotgdGiBUgZn_Q.png 547w" sizes="547px"/></noscript></div>
+                    <div class="db jk s t u eg ai av jl jm"></div><img alt="Image for post" class="eu ve s t u eg ai jt" width="547" height="120" src="https://miro.medium.com/max/547/1*cAW2QHkrcotgdGiBUgZn_Q.png" srcset="https://miro.medium.com/max/276/1*cAW2QHkrcotgdGiBUgZn_Q.png 276w, https://miro.medium.com/max/547/1*cAW2QHkrcotgdGiBUgZn_Q.png 547w" sizes="547px"><noscript><img alt="Image for post" class="s t u eg ai" src="https://miro.medium.com/max/1094/1*cAW2QHkrcotgdGiBUgZn_Q.png" width="547" height="120" srcSet="https://miro.medium.com/max/552/1*cAW2QHkrcotgdGiBUgZn_Q.png 276w, https://miro.medium.com/max/1094/1*cAW2QHkrcotgdGiBUgZn_Q.png 547w" sizes="547px"/></noscript></div>
             </div>
         </div>
     </figure>
@@ -296,14 +275,12 @@
     <p id="401e" class="jx jy bx ka b hs kb kc hv kd ke kf kg ia kh ki id kj kk ig kl gs ap" data-selectable-paragraph=""><strong class="ka mi">The key difference between Random forest and Bagging: </strong>The fundamental difference is that in <strong class="ka mi">Random forests</strong>, only a subset of features are selected at random out of the total
         <strong class="ka mi">and</strong> the best split feature from the subset is used to split each node in a tree, unlike in <strong class="ka mi">bagging</strong> where all features are considered for splitting a node.</p>
     <h2 id="132e" class="lv kr bx bw fh lw lx kc ly lz ke ma mb ia mc md id me mf ig mg ap" data-selectable-paragraph="">7) Adaboost regressor:</h2>
-    <p id="1037" class="jx jy bx ka b hs li kc hv lj ke kf lk ia kh ll id kj lm ig kl gs ap" data-selectable-paragraph="">AdaBoost can be used to boost the performance of any machine learning algorithm. Adaboost helps you combine multiple “weak classifiers” into a single “strong classifier”. <strong class="ka mi">Library used: </strong><a href="https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.AdaBoostRegressor.html"
-            class="cl dy km kn ko kp" target="_blank" rel="noopener nofollow">AdaBoostRegressor</a> &amp; <a href="https://en.wikipedia.org/wiki/AdaBoost" class="cl dy km kn ko kp" target="_blank" rel="noopener nofollow"><strong class="ka mi"><em class="jz">Read More</em></strong></a></p>
+    <p id="1037" class="jx jy bx ka b hs li kc hv lj ke kf lk ia kh ll id kj lm ig kl gs ap" data-selectable-paragraph="">AdaBoost can be used to boost the performance of any machine learning algorithm. Adaboost helps you combine multiple “weak classifiers” into a single “strong classifier”. <strong class="ka mi">Library used: </strong><a href="https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.AdaBoostRegressor.html" class="cl dy km kn ko kp" target="_blank" rel="noopener nofollow">AdaBoostRegressor</a> &amp; <a href="https://en.wikipedia.org/wiki/AdaBoost" class="cl dy km kn ko kp" target="_blank" rel="noopener nofollow"><strong class="ka mi"><em class="jz">Read More</em></strong></a></p>
     <figure class="je jf jg jh ji jj jt my dw mz na nb nc nd bl ch ne nf ng nh cs paragraph-image">
         <div class="ge gf oa">
             <div class="jn r dc fs">
                 <div class="ni jp r">
-                    <div class="db jk s t u eg ai av jl jm"></div><img alt="Image for post" class="eu ve s t u eg ai jt" width="360" height="360" src="https://miro.medium.com/max/360/1*jKBeeEm8CJSV2JBccKcxXQ.jpeg" srcset="https://miro.medium.com/max/276/1*jKBeeEm8CJSV2JBccKcxXQ.jpeg 276w, https://miro.medium.com/max/360/1*jKBeeEm8CJSV2JBccKcxXQ.jpeg 360w"
-                        sizes="360px"><noscript><img alt="Image for post" class="s t u eg ai" src="https://miro.medium.com/max/720/1*jKBeeEm8CJSV2JBccKcxXQ.jpeg" width="360" height="360" srcSet="https://miro.medium.com/max/552/1*jKBeeEm8CJSV2JBccKcxXQ.jpeg 276w, https://miro.medium.com/max/720/1*jKBeeEm8CJSV2JBccKcxXQ.jpeg 360w" sizes="360px"/></noscript></div>
+                    <div class="db jk s t u eg ai av jl jm"></div><img alt="Image for post" class="eu ve s t u eg ai jt" width="360" height="360" src="https://miro.medium.com/max/360/1*jKBeeEm8CJSV2JBccKcxXQ.jpeg" srcset="https://miro.medium.com/max/276/1*jKBeeEm8CJSV2JBccKcxXQ.jpeg 276w, https://miro.medium.com/max/360/1*jKBeeEm8CJSV2JBccKcxXQ.jpeg 360w" sizes="360px"><noscript><img alt="Image for post" class="s t u eg ai" src="https://miro.medium.com/max/720/1*jKBeeEm8CJSV2JBccKcxXQ.jpeg" width="360" height="360" srcSet="https://miro.medium.com/max/552/1*jKBeeEm8CJSV2JBccKcxXQ.jpeg 276w, https://miro.medium.com/max/720/1*jKBeeEm8CJSV2JBccKcxXQ.jpeg 360w" sizes="360px"/></noscript></div>
             </div>
         </div>
     </figure>
@@ -313,21 +290,18 @@
         <div class="ge gf ob">
             <div class="jn r dc fs">
                 <div class="oc jp r">
-                    <div class="db jk s t u eg ai av jl jm"></div><img alt="Image for post" class="eu ve s t u eg ai jt" width="552" height="122" src="https://miro.medium.com/max/552/1*YFhcbflIh3SsMSMRsg_cZw.png" srcset="https://miro.medium.com/max/276/1*YFhcbflIh3SsMSMRsg_cZw.png 276w, https://miro.medium.com/max/552/1*YFhcbflIh3SsMSMRsg_cZw.png 552w"
-                        sizes="552px"><noscript><img alt="Image for post" class="s t u eg ai" src="https://miro.medium.com/max/1104/1*YFhcbflIh3SsMSMRsg_cZw.png" width="552" height="122" srcSet="https://miro.medium.com/max/552/1*YFhcbflIh3SsMSMRsg_cZw.png 276w, https://miro.medium.com/max/1104/1*YFhcbflIh3SsMSMRsg_cZw.png 552w" sizes="552px"/></noscript></div>
+                    <div class="db jk s t u eg ai av jl jm"></div><img alt="Image for post" class="eu ve s t u eg ai jt" width="552" height="122" src="https://miro.medium.com/max/552/1*YFhcbflIh3SsMSMRsg_cZw.png" srcset="https://miro.medium.com/max/276/1*YFhcbflIh3SsMSMRsg_cZw.png 276w, https://miro.medium.com/max/552/1*YFhcbflIh3SsMSMRsg_cZw.png 552w" sizes="552px"><noscript><img alt="Image for post" class="s t u eg ai" src="https://miro.medium.com/max/1104/1*YFhcbflIh3SsMSMRsg_cZw.png" width="552" height="122" srcSet="https://miro.medium.com/max/552/1*YFhcbflIh3SsMSMRsg_cZw.png 276w, https://miro.medium.com/max/1104/1*YFhcbflIh3SsMSMRsg_cZw.png 552w" sizes="552px"/></noscript></div>
             </div>
         </div>
     </figure>
     <h2 id="76c0" class="lv kr bx bw fh lw lx kc ly lz ke ma mb ia mc md id me mf ig mg ap" data-selectable-paragraph="">8) XGBoost: XGBoost stands for e<strong class="bk">X</strong>treme <strong class="bk">G</strong>radient <strong class="bk">B</strong>oosting</h2>
     <p id="939c" class="jx jy bx ka b hs li kc hv lj ke kf lk ia kh ll id kj lm ig kl gs ap" data-selectable-paragraph="">XGBoost is an <a href="https://en.wikipedia.org/wiki/Ensemble_learning" class="cl dy km kn ko kp" target="_blank" rel="noopener nofollow">ensemble learning </a>method.XGBoost is an implementation of gradient boosted decision trees designed for speed
-        and performance. The beauty of this powerful algorithm lies in its scalability, which drives fast learning through parallel and distributed computing and offers efficient memory usage. <a href="https://www.analyticsvidhya.com/blog/2018/09/an-end-to-end-guide-to-understand-the-math-behind-xgboost/"
-            class="cl dy km kn ko kp" target="_blank" rel="noopener nofollow"><strong class="ka mi"><em class="jz">Read More</em></strong></a></p>
+        and performance. The beauty of this powerful algorithm lies in its scalability, which drives fast learning through parallel and distributed computing and offers efficient memory usage. <a href="https://www.analyticsvidhya.com/blog/2018/09/an-end-to-end-guide-to-understand-the-math-behind-xgboost/" class="cl dy km kn ko kp" target="_blank" rel="noopener nofollow"><strong class="ka mi"><em class="jz">Read More</em></strong></a></p>
     <figure class="je jf jg jh ji jj jt my dw mz na nb nc nd bl ch ne nf ng nh cs paragraph-image">
         <div class="ge gf oa">
             <div class="jn r dc fs">
                 <div class="ni jp r">
-                    <div class="db jk s t u eg ai av jl jm"></div><img alt="Image for post" class="eu ve s t u eg ai jt" width="360" height="360" src="https://miro.medium.com/max/360/1*yXftMIVgQZLnjMJ92Z1w0A.jpeg" srcset="https://miro.medium.com/max/276/1*yXftMIVgQZLnjMJ92Z1w0A.jpeg 276w, https://miro.medium.com/max/360/1*yXftMIVgQZLnjMJ92Z1w0A.jpeg 360w"
-                        sizes="360px"><noscript><img alt="Image for post" class="s t u eg ai" src="https://miro.medium.com/max/720/1*yXftMIVgQZLnjMJ92Z1w0A.jpeg" width="360" height="360" srcSet="https://miro.medium.com/max/552/1*yXftMIVgQZLnjMJ92Z1w0A.jpeg 276w, https://miro.medium.com/max/720/1*yXftMIVgQZLnjMJ92Z1w0A.jpeg 360w" sizes="360px"/></noscript></div>
+                    <div class="db jk s t u eg ai av jl jm"></div><img alt="Image for post" class="eu ve s t u eg ai jt" width="360" height="360" src="https://miro.medium.com/max/360/1*yXftMIVgQZLnjMJ92Z1w0A.jpeg" srcset="https://miro.medium.com/max/276/1*yXftMIVgQZLnjMJ92Z1w0A.jpeg 276w, https://miro.medium.com/max/360/1*yXftMIVgQZLnjMJ92Z1w0A.jpeg 360w" sizes="360px"><noscript><img alt="Image for post" class="s t u eg ai" src="https://miro.medium.com/max/720/1*yXftMIVgQZLnjMJ92Z1w0A.jpeg" width="360" height="360" srcSet="https://miro.medium.com/max/552/1*yXftMIVgQZLnjMJ92Z1w0A.jpeg 276w, https://miro.medium.com/max/720/1*yXftMIVgQZLnjMJ92Z1w0A.jpeg 360w" sizes="360px"/></noscript></div>
             </div>
         </div>
     </figure>
@@ -338,8 +312,7 @@
         <div class="ge gf np">
             <div class="jn r dc fs">
                 <div class="od jp r">
-                    <div class="db jk s t u eg ai av jl jm"></div><img alt="Image for post" class="eu ve s t u eg ai jt" width="556" height="123" src="https://miro.medium.com/max/556/1*QKrWdcpHiulRLLQuw8pPxw.png" srcset="https://miro.medium.com/max/276/1*QKrWdcpHiulRLLQuw8pPxw.png 276w, https://miro.medium.com/max/552/1*QKrWdcpHiulRLLQuw8pPxw.png 552w, https://miro.medium.com/max/556/1*QKrWdcpHiulRLLQuw8pPxw.png 556w"
-                        sizes="556px"><noscript><img alt="Image for post" class="s t u eg ai" src="https://miro.medium.com/max/1112/1*QKrWdcpHiulRLLQuw8pPxw.png" width="556" height="123" srcSet="https://miro.medium.com/max/552/1*QKrWdcpHiulRLLQuw8pPxw.png 276w, https://miro.medium.com/max/1104/1*QKrWdcpHiulRLLQuw8pPxw.png 552w, https://miro.medium.com/max/1112/1*QKrWdcpHiulRLLQuw8pPxw.png 556w" sizes="556px"/></noscript></div>
+                    <div class="db jk s t u eg ai av jl jm"></div><img alt="Image for post" class="eu ve s t u eg ai jt" width="556" height="123" src="https://miro.medium.com/max/556/1*QKrWdcpHiulRLLQuw8pPxw.png" srcset="https://miro.medium.com/max/276/1*QKrWdcpHiulRLLQuw8pPxw.png 276w, https://miro.medium.com/max/552/1*QKrWdcpHiulRLLQuw8pPxw.png 552w, https://miro.medium.com/max/556/1*QKrWdcpHiulRLLQuw8pPxw.png 556w" sizes="556px"><noscript><img alt="Image for post" class="s t u eg ai" src="https://miro.medium.com/max/1112/1*QKrWdcpHiulRLLQuw8pPxw.png" width="556" height="123" srcSet="https://miro.medium.com/max/552/1*QKrWdcpHiulRLLQuw8pPxw.png 276w, https://miro.medium.com/max/1104/1*QKrWdcpHiulRLLQuw8pPxw.png 552w, https://miro.medium.com/max/1112/1*QKrWdcpHiulRLLQuw8pPxw.png 556w" sizes="556px"/></noscript></div>
             </div>
         </div>
     </figure>
@@ -358,9 +331,7 @@
         <div class="ge gf og">
             <div class="jn r dc fs">
                 <div class="oh jp r">
-                    <div class="db jk s t u eg ai av jl jm"><img alt="Image for post" class="s t u eg ai jq jr bc vu" src="https://miro.medium.com/max/60/1*z81UsHSR2SkVrRsDnzyWrw.png?q=20" width="554" height="330"></div><img alt="Image for post" class="eu ve s t u eg ai jt" width="554" height="330"
-                        src="https://miro.medium.com/max/554/1*z81UsHSR2SkVrRsDnzyWrw.png" srcset="https://miro.medium.com/max/276/1*z81UsHSR2SkVrRsDnzyWrw.png 276w, https://miro.medium.com/max/552/1*z81UsHSR2SkVrRsDnzyWrw.png 552w, https://miro.medium.com/max/554/1*z81UsHSR2SkVrRsDnzyWrw.png 554w"
-                        sizes="554px"><noscript><img alt="Image for post" class="s t u eg ai" src="https://miro.medium.com/max/1108/1*z81UsHSR2SkVrRsDnzyWrw.png" width="554" height="330" srcSet="https://miro.medium.com/max/552/1*z81UsHSR2SkVrRsDnzyWrw.png 276w, https://miro.medium.com/max/1104/1*z81UsHSR2SkVrRsDnzyWrw.png 552w, https://miro.medium.com/max/1108/1*z81UsHSR2SkVrRsDnzyWrw.png 554w" sizes="554px"/></noscript></div>
+                    <div class="db jk s t u eg ai av jl jm"></div><img alt="Image for post" class="eu ve s t u eg ai jt" width="554" height="330" src="https://miro.medium.com/max/554/1*z81UsHSR2SkVrRsDnzyWrw.png" srcset="https://miro.medium.com/max/276/1*z81UsHSR2SkVrRsDnzyWrw.png 276w, https://miro.medium.com/max/552/1*z81UsHSR2SkVrRsDnzyWrw.png 552w, https://miro.medium.com/max/554/1*z81UsHSR2SkVrRsDnzyWrw.png 554w" sizes="554px"><noscript><img alt="Image for post" class="s t u eg ai" src="https://miro.medium.com/max/1108/1*z81UsHSR2SkVrRsDnzyWrw.png" width="554" height="330" srcSet="https://miro.medium.com/max/552/1*z81UsHSR2SkVrRsDnzyWrw.png 276w, https://miro.medium.com/max/1104/1*z81UsHSR2SkVrRsDnzyWrw.png 552w, https://miro.medium.com/max/1108/1*z81UsHSR2SkVrRsDnzyWrw.png 554w" sizes="554px"/></noscript></div>
             </div>
         </div>
     </figure>
@@ -371,8 +342,7 @@
         <div class="ge gf or">
             <div class="jn r dc fs">
                 <div class="ni jp r">
-                    <div class="db jk s t u eg ai av jl jm"></div><img alt="Image for post" class="eu ve s t u eg ai jt" width="540" height="540" src="https://miro.medium.com/max/540/1*4prrHWaa8gMCRoivyabCJQ.png" srcset="https://miro.medium.com/max/276/1*4prrHWaa8gMCRoivyabCJQ.png 276w, https://miro.medium.com/max/540/1*4prrHWaa8gMCRoivyabCJQ.png 540w"
-                        sizes="540px"><noscript><img alt="Image for post" class="s t u eg ai" src="https://miro.medium.com/max/1080/1*4prrHWaa8gMCRoivyabCJQ.png" width="540" height="540" srcSet="https://miro.medium.com/max/552/1*4prrHWaa8gMCRoivyabCJQ.png 276w, https://miro.medium.com/max/1080/1*4prrHWaa8gMCRoivyabCJQ.png 540w" sizes="540px"/></noscript></div>
+                    <div class="db jk s t u eg ai av jl jm"></div><img alt="Image for post" class="eu ve s t u eg ai jt" width="540" height="540" src="https://miro.medium.com/max/540/1*4prrHWaa8gMCRoivyabCJQ.png" srcset="https://miro.medium.com/max/276/1*4prrHWaa8gMCRoivyabCJQ.png 276w, https://miro.medium.com/max/540/1*4prrHWaa8gMCRoivyabCJQ.png 540w" sizes="540px"><noscript><img alt="Image for post" class="s t u eg ai" src="https://miro.medium.com/max/1080/1*4prrHWaa8gMCRoivyabCJQ.png" width="540" height="540" srcSet="https://miro.medium.com/max/552/1*4prrHWaa8gMCRoivyabCJQ.png 276w, https://miro.medium.com/max/1080/1*4prrHWaa8gMCRoivyabCJQ.png 540w" sizes="540px"/></noscript></div>
             </div>
         </div>
     </figure>
@@ -381,8 +351,7 @@
         <div class="ge gf ms">
             <div class="jn r dc fs">
                 <div class="mt jp r">
-                    <div class="db jk s t u eg ai av jl jm"></div><img alt="Image for post" class="eu ve s t u eg ai jt" width="432" height="288" src="https://miro.medium.com/max/432/1*DTsSYuGAmFfWgva4LssFSw.png" srcset="https://miro.medium.com/max/276/1*DTsSYuGAmFfWgva4LssFSw.png 276w, https://miro.medium.com/max/432/1*DTsSYuGAmFfWgva4LssFSw.png 432w"
-                        sizes="432px"><noscript><img alt="Image for post" class="s t u eg ai" src="https://miro.medium.com/max/864/1*DTsSYuGAmFfWgva4LssFSw.png" width="432" height="288" srcSet="https://miro.medium.com/max/552/1*DTsSYuGAmFfWgva4LssFSw.png 276w, https://miro.medium.com/max/864/1*DTsSYuGAmFfWgva4LssFSw.png 432w" sizes="432px"/></noscript></div>
+                    <div class="db jk s t u eg ai av jl jm"></div><img alt="Image for post" class="eu ve s t u eg ai jt" width="432" height="288" src="https://miro.medium.com/max/432/1*DTsSYuGAmFfWgva4LssFSw.png" srcset="https://miro.medium.com/max/276/1*DTsSYuGAmFfWgva4LssFSw.png 276w, https://miro.medium.com/max/432/1*DTsSYuGAmFfWgva4LssFSw.png 432w" sizes="432px"><noscript><img alt="Image for post" class="s t u eg ai" src="https://miro.medium.com/max/864/1*DTsSYuGAmFfWgva4LssFSw.png" width="432" height="288" srcSet="https://miro.medium.com/max/552/1*DTsSYuGAmFfWgva4LssFSw.png 276w, https://miro.medium.com/max/864/1*DTsSYuGAmFfWgva4LssFSw.png 432w" sizes="432px"/></noscript></div>
             </div>
         </div>
     </figure>
@@ -391,8 +360,7 @@
         <div class="ge gf oa">
             <div class="jn r dc fs">
                 <div class="ni jp r">
-                    <div class="db jk s t u eg ai av jl jm"></div><img alt="Image for post" class="eu ve s t u eg ai jt" width="360" height="360" src="https://miro.medium.com/max/360/1*a5diIhr--h_-wTlt6lQKNA.png" srcset="https://miro.medium.com/max/276/1*a5diIhr--h_-wTlt6lQKNA.png 276w, https://miro.medium.com/max/360/1*a5diIhr--h_-wTlt6lQKNA.png 360w"
-                        sizes="360px"><noscript><img alt="Image for post" class="s t u eg ai" src="https://miro.medium.com/max/720/1*a5diIhr--h_-wTlt6lQKNA.png" width="360" height="360" srcSet="https://miro.medium.com/max/552/1*a5diIhr--h_-wTlt6lQKNA.png 276w, https://miro.medium.com/max/720/1*a5diIhr--h_-wTlt6lQKNA.png 360w" sizes="360px"/></noscript></div>
+                    <div class="db jk s t u eg ai av jl jm"></div><img alt="Image for post" class="eu ve s t u eg ai jt" width="360" height="360" src="https://miro.medium.com/max/360/1*a5diIhr--h_-wTlt6lQKNA.png" srcset="https://miro.medium.com/max/276/1*a5diIhr--h_-wTlt6lQKNA.png 276w, https://miro.medium.com/max/360/1*a5diIhr--h_-wTlt6lQKNA.png 360w" sizes="360px"><noscript><img alt="Image for post" class="s t u eg ai" src="https://miro.medium.com/max/720/1*a5diIhr--h_-wTlt6lQKNA.png" width="360" height="360" srcSet="https://miro.medium.com/max/552/1*a5diIhr--h_-wTlt6lQKNA.png 276w, https://miro.medium.com/max/720/1*a5diIhr--h_-wTlt6lQKNA.png 360w" sizes="360px"/></noscript></div>
             </div>
         </div>
     </figure>
@@ -402,8 +370,7 @@
             <div class="ge gf mw">
                 <div class="jn r dc fs">
                     <div class="mp jp r">
-                        <div class="db jk s t u eg ai av jl jm"></div><img alt="Image for post" class="eu ve s t u eg ai jt" width="720" height="360" src="https://miro.medium.com/max/720/1*PD2pzladq6HRqM7_I_j_Rw.png" srcset="https://miro.medium.com/max/276/1*PD2pzladq6HRqM7_I_j_Rw.png 276w, https://miro.medium.com/max/552/1*PD2pzladq6HRqM7_I_j_Rw.png 552w, https://miro.medium.com/max/640/1*PD2pzladq6HRqM7_I_j_Rw.png 640w, https://miro.medium.com/max/700/1*PD2pzladq6HRqM7_I_j_Rw.png 700w"
-                            sizes="700px"><noscript><img alt="Image for post" class="s t u eg ai" src="https://miro.medium.com/max/1440/1*PD2pzladq6HRqM7_I_j_Rw.png" width="720" height="360" srcSet="https://miro.medium.com/max/552/1*PD2pzladq6HRqM7_I_j_Rw.png 276w, https://miro.medium.com/max/1104/1*PD2pzladq6HRqM7_I_j_Rw.png 552w, https://miro.medium.com/max/1280/1*PD2pzladq6HRqM7_I_j_Rw.png 640w, https://miro.medium.com/max/1400/1*PD2pzladq6HRqM7_I_j_Rw.png 700w" sizes="700px"/></noscript></div>
+                        <div class="db jk s t u eg ai av jl jm"></div><img alt="Image for post" class="eu ve s t u eg ai jt" width="720" height="360" src="https://miro.medium.com/max/720/1*PD2pzladq6HRqM7_I_j_Rw.png" srcset="https://miro.medium.com/max/276/1*PD2pzladq6HRqM7_I_j_Rw.png 276w, https://miro.medium.com/max/552/1*PD2pzladq6HRqM7_I_j_Rw.png 552w, https://miro.medium.com/max/640/1*PD2pzladq6HRqM7_I_j_Rw.png 640w, https://miro.medium.com/max/700/1*PD2pzladq6HRqM7_I_j_Rw.png 700w" sizes="700px"><noscript><img alt="Image for post" class="s t u eg ai" src="https://miro.medium.com/max/1440/1*PD2pzladq6HRqM7_I_j_Rw.png" width="720" height="360" srcSet="https://miro.medium.com/max/552/1*PD2pzladq6HRqM7_I_j_Rw.png 276w, https://miro.medium.com/max/1104/1*PD2pzladq6HRqM7_I_j_Rw.png 552w, https://miro.medium.com/max/1280/1*PD2pzladq6HRqM7_I_j_Rw.png 640w, https://miro.medium.com/max/1400/1*PD2pzladq6HRqM7_I_j_Rw.png 700w" sizes="700px"/></noscript></div>
                 </div>
             </div>
         </div>
@@ -483,8 +450,7 @@
         <div class="ge gf og">
             <div class="jn r dc fs">
                 <div class="oh jp r">
-                    <div class="db jk s t u eg ai av jl jm"></div><img alt="Image for post" class="eu ve s t u eg ai jt" width="554" height="330" src="https://miro.medium.com/max/554/1*z81UsHSR2SkVrRsDnzyWrw.png" srcset="https://miro.medium.com/max/276/1*z81UsHSR2SkVrRsDnzyWrw.png 276w, https://miro.medium.com/max/552/1*z81UsHSR2SkVrRsDnzyWrw.png 552w, https://miro.medium.com/max/554/1*z81UsHSR2SkVrRsDnzyWrw.png 554w"
-                        sizes="554px"><noscript><img alt="Image for post" class="s t u eg ai" src="https://miro.medium.com/max/1108/1*z81UsHSR2SkVrRsDnzyWrw.png" width="554" height="330" srcSet="https://miro.medium.com/max/552/1*z81UsHSR2SkVrRsDnzyWrw.png 276w, https://miro.medium.com/max/1104/1*z81UsHSR2SkVrRsDnzyWrw.png 552w, https://miro.medium.com/max/1108/1*z81UsHSR2SkVrRsDnzyWrw.png 554w" sizes="554px"/></noscript></div>
+                    <div class="db jk s t u eg ai av jl jm"></div><img alt="Image for post" class="eu ve s t u eg ai jt" width="554" height="330" src="https://miro.medium.com/max/554/1*z81UsHSR2SkVrRsDnzyWrw.png" srcset="https://miro.medium.com/max/276/1*z81UsHSR2SkVrRsDnzyWrw.png 276w, https://miro.medium.com/max/552/1*z81UsHSR2SkVrRsDnzyWrw.png 552w, https://miro.medium.com/max/554/1*z81UsHSR2SkVrRsDnzyWrw.png 554w" sizes="554px"><noscript><img alt="Image for post" class="s t u eg ai" src="https://miro.medium.com/max/1108/1*z81UsHSR2SkVrRsDnzyWrw.png" width="554" height="330" srcSet="https://miro.medium.com/max/552/1*z81UsHSR2SkVrRsDnzyWrw.png 276w, https://miro.medium.com/max/1104/1*z81UsHSR2SkVrRsDnzyWrw.png 552w, https://miro.medium.com/max/1108/1*z81UsHSR2SkVrRsDnzyWrw.png 554w" sizes="554px"/></noscript></div>
             </div>
         </div>
     </figure>
