@@ -1,4 +1,4 @@
-# Used Car Price Prediction using Machine Learning
+<h1 align='center'>Used Car Price Prediction using Machine Learning</h1>
 ![image](https://miro.medium.com/max/647/1*ZOcUPrSXLYucFxppoI-dYg.png)
 
 > # Content
