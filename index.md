@@ -1,4 +1,6 @@
 <div>
+    <h1 align='center'>Used Car Price Prediction using Machine Learning</h1>
+    <img src='https://miro.medium.com/max/647/1*ZOcUPrSXLYucFxppoI-dYg.png'/>
     <h1 id="39eb" class="kq kr bx bw fh ks kt ku kv kw kx ky kz la lb lc ld le lf lg lh ap" data-selectable-paragraph="">Content</h1>
     <ol class="">
         <li id="4a97" class="jx jy bx ka b hs li kc hv lj ke kf lk ia kh ll id kj lm ig kl ln lo lp ap" data-selectable-paragraph="">Data Cleaning (Identifying null values, filling missing values and removing outliers)</li>
@@ -31,16 +33,7 @@
         data-selectable-paragraph=""><strong class="bk">2. Data Cleaning:</strong></h1>
     <p id="587d" class="jx jy bx ka b hs li kc hv lj ke kf lk ia kh ll id kj lm ig kl gs ap" data-selectable-paragraph="">The first step is to remove irrelevant/useless features like ‘url’, ’region_url’, ’vin’, ’image_url’, ’description’, ’county’, ’state’ from the dataset.</p>
     <p id="64fa" class="jx jy bx ka b hs kb kc hv kd ke kf kg ia kh ki id kj kk ig kl gs ap" data-selectable-paragraph="">As a next step, check missing values for each feature.</p>
-    <figure class="je jf jg jh ji jj ge gf paragraph-image">
-        <div class="ge gf mj">
-            <div class="jn r dc fs">
-                <div class="mk jp r">
-                    <div class="db jk s t u eg ai av jl jm"><img alt="Image for post" class="s t u eg ai jq jr bc vu" src="https://miro.medium.com/max/60/1*2EPrbZHIVWGSz6xAqUYIIA.png?q=20" width="565" height="405"></div><img alt="Image for post" class="eu ve s t u eg ai jt" width="565" height="405"
-                        src="https://miro.medium.com/max/565/1*2EPrbZHIVWGSz6xAqUYIIA.png" srcset="https://miro.medium.com/max/276/1*2EPrbZHIVWGSz6xAqUYIIA.png 276w, https://miro.medium.com/max/552/1*2EPrbZHIVWGSz6xAqUYIIA.png 552w, https://miro.medium.com/max/565/1*2EPrbZHIVWGSz6xAqUYIIA.png 565w"
-                        sizes="565px"><noscript><img alt="Image for post" class="s t u eg ai" src="https://miro.medium.com/max/1130/1*2EPrbZHIVWGSz6xAqUYIIA.png" width="565" height="405" srcSet="https://miro.medium.com/max/552/1*2EPrbZHIVWGSz6xAqUYIIA.png 276w, https://miro.medium.com/max/1104/1*2EPrbZHIVWGSz6xAqUYIIA.png 552w, https://miro.medium.com/max/1130/1*2EPrbZHIVWGSz6xAqUYIIA.png 565w" sizes="565px"/></noscript></div>
-            </div>
-        </div>
-    </figure>
+    <img src='https://miro.medium.com/max/565/1*2EPrbZHIVWGSz6xAqUYIIA.png' />
     <p id="1e6e" class="jx jy bx ka b hs kb kc hv kd ke kf kg ia kh ki id kj kk ig kl gs ap" data-selectable-paragraph="">Next, now missing values were filled with appropriate values by an appropriate method.</p>
     <p id="772f" class="jx jy bx ka b hs kb kc hv kd ke kf kg ia kh ki id kj kk ig kl gs ap" data-selectable-paragraph="">To fill the missing values, <a href="https://scikit-learn.org/stable/modules/generated/sklearn.impute.IterativeImputer.html" class="cl dy km kn ko kp" target="_blank" rel="noopener nofollow"><em class="jz">IterativeImputer</em></a> method is used
         and different estimators are implemented then calculated <a href="https://en.wikipedia.org/wiki/Mean_squared_error" class="cl dy km kn ko kp" target="_blank" rel="noopener nofollow"><em class="jz">MSE</em></a> of each estimator using <a href="https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.cross_val_score.html"
@@ -57,9 +50,7 @@
             <div class="ge gf ml">
                 <div class="jn r dc fs">
                     <div class="mp jp r">
-                        <div class="db jk s t u eg ai av jl jm"><img alt="Image for post" class="s t u eg ai jq jr bc vu" src="https://miro.medium.com/max/60/1*5Mp3PscLpgg1Zmck6TqQnw.png?q=20" width="864" height="432"></div><img alt="Image for post" class="eu ve s t u eg ai jt" width="864"
-                            height="432" src="https://miro.medium.com/max/864/1*5Mp3PscLpgg1Zmck6TqQnw.png" srcset="https://miro.medium.com/max/276/1*5Mp3PscLpgg1Zmck6TqQnw.png 276w, https://miro.medium.com/max/552/1*5Mp3PscLpgg1Zmck6TqQnw.png 552w, https://miro.medium.com/max/640/1*5Mp3PscLpgg1Zmck6TqQnw.png 640w, https://miro.medium.com/max/700/1*5Mp3PscLpgg1Zmck6TqQnw.png 700w"
-                            sizes="700px"><noscript><img alt="Image for post" class="s t u eg ai" src="https://miro.medium.com/max/1728/1*5Mp3PscLpgg1Zmck6TqQnw.png" width="864" height="432" srcSet="https://miro.medium.com/max/552/1*5Mp3PscLpgg1Zmck6TqQnw.png 276w, https://miro.medium.com/max/1104/1*5Mp3PscLpgg1Zmck6TqQnw.png 552w, https://miro.medium.com/max/1280/1*5Mp3PscLpgg1Zmck6TqQnw.png 640w, https://miro.medium.com/max/1400/1*5Mp3PscLpgg1Zmck6TqQnw.png 700w" sizes="700px"/></noscript></div>
+                        <div class="db jk s t u eg ai av jl jm"><img alt="Image for post" class="s t u eg ai jq jr bc vu" src="https://miro.medium.com/max/60/1*5Mp3PscLpgg1Zmck6TqQnw.png?q=20" width="864" height="432"></div><noscript><img alt="Image for post" class="s t u eg ai" src="https://miro.medium.com/max/1728/1*5Mp3PscLpgg1Zmck6TqQnw.png" width="864" height="432" srcSet="https://miro.medium.com/max/552/1*5Mp3PscLpgg1Zmck6TqQnw.png 276w, https://miro.medium.com/max/1104/1*5Mp3PscLpgg1Zmck6TqQnw.png 552w, https://miro.medium.com/max/1280/1*5Mp3PscLpgg1Zmck6TqQnw.png 640w, https://miro.medium.com/max/1400/1*5Mp3PscLpgg1Zmck6TqQnw.png 700w" sizes="700px"/></noscript></div>
                 </div>
             </div>
         </div>
@@ -69,43 +60,15 @@
         <div class="ge gf mq">
             <div class="jn r dc fs">
                 <div class="mr jp r">
-                    <div class="db jk s t u eg ai av jl jm"><img alt="zero-null-value" class="s t u eg ai jq jr bc vu" src="https://miro.medium.com/max/58/1*7h8JugocaValwthZeXIo0A.png?q=20" width="419" height="430"></div><img alt="zero-null-value" class="eu ve s t u eg ai jt" width="419" height="430"
-                        src="https://miro.medium.com/max/419/1*7h8JugocaValwthZeXIo0A.png" srcset="https://miro.medium.com/max/276/1*7h8JugocaValwthZeXIo0A.png 276w, https://miro.medium.com/max/419/1*7h8JugocaValwthZeXIo0A.png 419w" sizes="419px"><noscript><img alt="zero-null-value" class="s t u eg ai" src="https://miro.medium.com/max/838/1*7h8JugocaValwthZeXIo0A.png" width="419" height="430" srcSet="https://miro.medium.com/max/552/1*7h8JugocaValwthZeXIo0A.png 276w, https://miro.medium.com/max/838/1*7h8JugocaValwthZeXIo0A.png 419w" sizes="419px"/></noscript></div>
+                    <div class="db jk s t u eg ai av jl jm"><img alt="zero-null-value" class="s t u eg ai jq jr bc vu" src="https://miro.medium.com/max/58/1*7h8JugocaValwthZeXIo0A.png?q=20" width="419" height="430"></div><noscript><img alt="zero-null-value" class="s t u eg ai" src="https://miro.medium.com/max/838/1*7h8JugocaValwthZeXIo0A.png" width="419" height="430" srcSet="https://miro.medium.com/max/552/1*7h8JugocaValwthZeXIo0A.png 276w, https://miro.medium.com/max/838/1*7h8JugocaValwthZeXIo0A.png 419w" sizes="419px"/></noscript></div>
             </div>
         </div>
     </figure>
     <p id="09db" class="jx jy bx ka b hs kb kc hv kd ke kf kg ia kh ki id kj kk ig kl gs ap" data-selectable-paragraph="">At last, after dealing with missing values there zero null values.</p>
     <p id="677c" class="jx jy bx ka b hs kb kc hv kd ke kf kg ia kh ki id kj kk ig kl gs ap" data-selectable-paragraph=""><strong class="ka mi">Outliers: </strong>InterQuartile Range (IQR) method is used to remove the outliers from the data.</p>
-    <figure class="je jf jg jh ji jj ge gf paragraph-image">
-        <div class="ge gf ms">
-            <div class="jn r dc fs">
-                <div class="mt jp r">
-                    <div class="db jk s t u eg ai av jl jm"><img alt="Image for post" class="s t u eg ai jq jr bc vu" src="https://miro.medium.com/max/60/1*J3alPNZZJ4Wm9WHf0btCnQ.jpeg?q=20" width="432" height="288"></div><img alt="Image for post" class="eu ve s t u eg ai jt" width="432" height="288"
-                        src="https://miro.medium.com/max/432/1*J3alPNZZJ4Wm9WHf0btCnQ.jpeg" srcset="https://miro.medium.com/max/276/1*J3alPNZZJ4Wm9WHf0btCnQ.jpeg 276w, https://miro.medium.com/max/432/1*J3alPNZZJ4Wm9WHf0btCnQ.jpeg 432w" sizes="432px"><noscript><img alt="Image for post" class="s t u eg ai" src="https://miro.medium.com/max/864/1*J3alPNZZJ4Wm9WHf0btCnQ.jpeg" width="432" height="288" srcSet="https://miro.medium.com/max/552/1*J3alPNZZJ4Wm9WHf0btCnQ.jpeg 276w, https://miro.medium.com/max/864/1*J3alPNZZJ4Wm9WHf0btCnQ.jpeg 432w" sizes="432px"/></noscript></div>
-            </div>
-        </div>
-    </figure>
-    <figure class="je jf jg jh ji jj ge gf paragraph-image">
-        <div class="ge gf ms">
-            <div class="jn r dc fs">
-                <div class="mt jp r">
-                    <div class="db jk s t u eg ai av jl jm"><img alt="Image for post" class="s t u eg ai jq jr bc vu" src="https://miro.medium.com/max/60/1*MBJDuHn4xIPy_7EzoH5STA.jpeg?q=20" width="432" height="288"></div><img alt="Image for post" class="eu ve s t u eg ai jt" width="432" height="288"
-                        src="https://miro.medium.com/max/432/1*MBJDuHn4xIPy_7EzoH5STA.jpeg" srcset="https://miro.medium.com/max/276/1*MBJDuHn4xIPy_7EzoH5STA.jpeg 276w, https://miro.medium.com/max/432/1*MBJDuHn4xIPy_7EzoH5STA.jpeg 432w" sizes="432px"><noscript><img alt="Image for post" class="s t u eg ai" src="https://miro.medium.com/max/864/1*MBJDuHn4xIPy_7EzoH5STA.jpeg" width="432" height="288" srcSet="https://miro.medium.com/max/552/1*MBJDuHn4xIPy_7EzoH5STA.jpeg 276w, https://miro.medium.com/max/864/1*MBJDuHn4xIPy_7EzoH5STA.jpeg 432w" sizes="432px"/></noscript></div>
-            </div>
-        </div>
-    </figure>
-    <figure class="je jf jg jh ji jj ge gf paragraph-image">
-        <div class="mm mn dc mo ai">
-            <div class="ge gf mu">
-                <div class="jn r dc fs">
-                    <div class="mv jp r">
-                        <div class="db jk s t u eg ai av jl jm"><img alt="Image for post" class="s t u eg ai jq jr bc vu" src="https://miro.medium.com/max/60/1*P6qsfXxrfM9BGanUaIsF_w.jpeg?q=20" width="14400" height="6000"></div><img alt="Image for post" class="eu ve s t u eg ai jt" width="14400"
-                            height="6000" src="https://miro.medium.com/max/14400/1*P6qsfXxrfM9BGanUaIsF_w.jpeg" srcset="https://miro.medium.com/max/276/1*P6qsfXxrfM9BGanUaIsF_w.jpeg 276w, https://miro.medium.com/max/552/1*P6qsfXxrfM9BGanUaIsF_w.jpeg 552w, https://miro.medium.com/max/640/1*P6qsfXxrfM9BGanUaIsF_w.jpeg 640w, https://miro.medium.com/max/700/1*P6qsfXxrfM9BGanUaIsF_w.jpeg 700w"
-                            sizes="700px"><noscript><img alt="Image for post" class="s t u eg ai" src="https://miro.medium.com/max/28800/1*P6qsfXxrfM9BGanUaIsF_w.jpeg" width="14400" height="6000" srcSet="https://miro.medium.com/max/552/1*P6qsfXxrfM9BGanUaIsF_w.jpeg 276w, https://miro.medium.com/max/1104/1*P6qsfXxrfM9BGanUaIsF_w.jpeg 552w, https://miro.medium.com/max/1280/1*P6qsfXxrfM9BGanUaIsF_w.jpeg 640w, https://miro.medium.com/max/1400/1*P6qsfXxrfM9BGanUaIsF_w.jpeg 700w" sizes="700px"/></noscript></div>
-                </div>
-            </div>
-        </div>
-    </figure>
+    
+    
+    
     <ul class="">
         <li id="fd20" class="jx jy bx ka b hs kb kc hv kd ke kf kg ia kh ki id kj kk ig kl mh lo lp ap" data-selectable-paragraph="">From figure 1, the prices whose log is below 6.55 and above 11.55 are the outliers</li>
         <li id="0d88" class="jx jy bx ka b hs lq kc hv lr ke kf ls ia kh lt id kj lu ig kl mh lo lp ap" data-selectable-paragraph="">From figure 2, it is impossible to conclude something so IQR is calculated to find outliers i.e odometer values below 6.55 and above 11.55 are the outliers.</li>
