@@ -1,3 +1,9 @@
+
+Important URLS:
+Project Report: https://towardsdatascience.com/used-car-price-prediction-using-machine-learning-e3be02d977b2
+https://github.com/abhashpanwar/used-car-price-prediction
+https://www.kaggle.com/austinreese/craigslist-carstrucks-data
+
 1) Download the dataset from the given URL
 Dataset Used: https://www.kaggle.com/austinreese/craigslist-carstrucks-data
 
@@ -8,9 +14,4 @@ Dataset Used: https://www.kaggle.com/austinreese/craigslist-carstrucks-data
 3)vehiclesFinalData.zip is the dataset after data-preprocesing
 
 4)images.zip contain images of visualizations
-
-Important URLS:
-https://github.com/abhashpanwar/used-car-price-prediction
-https://www.kaggle.com/austinreese/craigslist-carstrucks-data
-
 
