@@ -5,17 +5,17 @@ Project Report: https://towardsdatascience.com/used-car-price-prediction-using-m
 
 Deployment: https://abhash-car-price-prediction.herokuapp.com/
 
-├── DATA
-│    ├── vehiclesFinalData.zip
-│    ├── images.zip
-│    ├── errors.csv
-├── Notebook
-│    ├── EDA
-│    │   ├── data-visualization.ipynb
-│    ├── data-preprocessing.ipynb
-|    ├── Feature_Engineering.ipynb
-|    ├── ml-models.ipynb
-
+├── DATA<br>
+│    ├── vehiclesFinalData.zip<br>
+│    ├── images.zip<br>
+│    ├── errors.csv<br>
+├── Notebook<br>
+│    ├── EDA<br>
+│    │   ├── data-visualization.ipynb<br>
+│    ├── data-preprocessing.ipynb<br>
+|    ├── Feature_Engineering.ipynb<br>
+|    ├── ml-models.ipynb<br>
+<br>
 <b>1) About dataset:</b> Dataset is taken from Kaggle <br>
 Dataset Used: https://www.kaggle.com/austinreese/craigslist-carstrucks-data<br><br>
 2) <b>Project workflow:</b>
