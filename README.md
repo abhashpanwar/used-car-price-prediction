@@ -9,8 +9,8 @@ Deployment: https://abhash-car-price-prediction.herokuapp.com/
 │    ├── vehiclesFinalData.zip
 │    ├── images.zip
 │    ├── errors.csv
-├── Notebook<br>
-│    ├── EDA<br>
+├── Notebook
+│    ├── EDA
 │    │   ├── data-visualization.ipynb
 │    ├── data-preprocessing.ipynb
 |    ├── Feature_Engineering.ipynb
