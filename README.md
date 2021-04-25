@@ -6,8 +6,8 @@ Project Report: https://towardsdatascience.com/used-car-price-prediction-using-m
 Deployment: https://abhash-car-price-prediction.herokuapp.com/
 <pre>
 ├── DATA<br>
-│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── vehiclesFinalData.zip<br>
-│          ├── images.zip<br>
+│    ├── vehiclesFinalData.zip<br>
+│    ├── images.zip<br>
 │    ├── errors.csv<br>
 ├── Notebook<br>
 │    ├── EDA<br>
