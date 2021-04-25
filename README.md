@@ -3,16 +3,17 @@
 
 Project Report: https://towardsdatascience.com/used-car-price-prediction-using-machine-learning-e3be02d977b2
 
-## Deployment: https://abhash-car-price-prediction.herokuapp.com/
+Deployment: https://abhash-car-price-prediction.herokuapp.com/
 
 
-1) About dataset: Dataset is taken from Kaggle
-
+<b>1) About dataset:</b> Dataset is taken from Kaggle <br>
 Dataset Used: https://www.kaggle.com/austinreese/craigslist-carstrucks-data
 
-2) Project workflow:
-  Step 1: Data Prerpocessing
-  Step 2: Data Visualization
-  Step 3: Model Implementations
-  Step 4: Model deployment using Django 
+2) <b>Project workflow:</b>
+  <ul>
+  <li>Step 1: Data Prerpocessing</li>
+  <li>Step 2: Data Visualization</li>
+  <li>Step 3: Model Implementations</li>
+  <li>Step 4: Model deployment using Django</li>
+  </ul>
 
