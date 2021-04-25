@@ -1,17 +1,16 @@
 
-<h1>Important URLS:</h1>
-Project Report: https://towardsdatascience.com/used-car-price-prediction-using-machine-learning-e3be02d977b2
-https://github.com/abhashpanwar/used-car-price-prediction
-https://www.kaggle.com/austinreese/craigslist-carstrucks-data
+# Used Car Price Prediction (End-to End Project)
 
-1) Download the dataset from the given URL
+Project Report: https://towardsdatascience.com/used-car-price-prediction-using-machine-learning-e3be02d977b2
+Deployment: https://abhash-car-price-prediction.herokuapp.com/
+
+
+1)About dataset: Dataset is taken from Kaggle
 Dataset Used: https://www.kaggle.com/austinreese/craigslist-carstrucks-data
 
-2)	Step 1: Data Prerpocessing on data-preprocessing.ipynb
-	Step 2: Model Implementations on ml-models.ipynb
-	Step 3: Data Visualization on data-visualization.ipynb
-
-3)vehiclesFinalData.zip is the dataset after data-preprocesing
-
-4)images.zip contain images of visualizations
+2)Project Steps:
+Step 1: Data Prerpocessing
+Step 2: Data Visualization
+Step 3: Model Implementations
+Step 4: Model deployment using Django 
 
