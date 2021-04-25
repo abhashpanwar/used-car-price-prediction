@@ -7,8 +7,7 @@ Deployment: https://abhash-car-price-prediction.herokuapp.com/
 
 
 <b>1) About dataset:</b> Dataset is taken from Kaggle <br>
-Dataset Used: https://www.kaggle.com/austinreese/craigslist-carstrucks-data
-
+Dataset Used: https://www.kaggle.com/austinreese/craigslist-carstrucks-data<br>
 2) <b>Project workflow:</b>
   <ul>
   <li>Step 1: Data Prerpocessing</li>
